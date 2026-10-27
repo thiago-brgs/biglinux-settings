@@ -16,9 +16,45 @@ msgstr ""
 "X-Generator: attranslate\n"
 msgid "Applying, please wait..."
 msgstr "Εφαρμογή, παρακαλώ περιμένετε..."
+msgid ""
+"GRUB updated successfully!\\n"
+"Restart your computer for it to take effect."
+msgstr ""
+"Ο GRUB ενημερώθηκε με επιτυχία!\\n"
+"Επανεκκινήστε τον υπολογιστή σας για να ισχύσει."
+msgid "An error occurred while updating GRUB."
+msgstr "Παρουσιάστηκε σφάλμα κατά την ενημέρωση του GRUB."
+msgid "Already enabled. No changes made."
+msgstr "Ήδη ενεργοποιημένο. Δεν έγιναν αλλαγές."
+msgid "Limits updated successfully!"
+msgstr "Οι περιορισμοί ενημερώθηκαν με επιτυχία!"
+msgid "An error occurred while updating Limits."
+msgstr "Παρουσιάστηκε σφάλμα κατά την ενημέρωση των Ορίων."
+msgid "GRUB updated successfully!"
+msgstr "Ο GRUB ενημερώθηκε με επιτυχία!"
+msgid "Installing $package"
+msgstr "Εγκατάσταση $package"
+msgid "Installing $package, Please wait..."
+msgstr "Εγκατάσταση $package, Παρακαλώ περιμένετε..."
+msgid "Removing $package"
+msgstr "Αφαίρεση $package"
+msgid "Removing $package, Please wait..."
+msgstr "Αφαίρεση του $package, Παρακαλώ περιμένετε..."
+msgid ""
+"$title installed successfully!\\n"
+"\\n"
+"Configured on port $port, to access use $url"
+msgstr ""
+"$title εγκαταστάθηκε με επιτυχία!\\n"
+"\\n"
+"Ρυθμίστηκε στη θύρα $port, για πρόσβαση χρησιμοποιήστε το $url"
+msgid "$package removed successfully!"
+msgstr "Το πακέτο αφαιρέθηκε με επιτυχία!"
+msgid "An error occurred with $package."
+msgstr "Παρουσιάστηκε σφάλμα με το $package."
 msgid "Docker Install"
 msgstr "Εγκατάσταση Docker"
-msgid "Instaling Docker, Please wait..."
+msgid "Installing Docker, Please wait..."
 msgstr "Εγκατάσταση του Docker, Παρακαλώ περιμένετε..."
 msgid "Docker Start"
 msgstr "Εκκίνηση Docker"
@@ -30,174 +66,301 @@ msgid "Docker Stopping, Please wait..."
 msgstr "Docker Σταμάτημα, Παρακαλώ περιμένετε..."
 msgid "Docker installed successfully!"
 msgstr "Το Docker εγκαταστάθηκε με επιτυχία!"
-msgid "An error occurred while install docker."
+msgid "An error occurred while installing docker."
 msgstr "Παρουσιάστηκε σφάλμα κατά την εγκατάσταση του docker."
+msgid "Example Install"
+msgstr "Παράδειγμα Εγκατάστασης"
+msgid "Installing Example, Please wait..."
+msgstr "Εγκατάσταση παραδείγματος, παρακαλώ περιμένετε..."
+msgid "Example Uninstall"
+msgstr "Παράδειγμα Απεγκατάστασης"
+msgid "Uninstalling Example, Please wait..."
+msgstr "Απεγκατάσταση του Example, Παρακαλώ περιμένετε..."
+msgid "Example installed successfully!"
+msgstr "Η εγκατάσταση του παραδείγματος ολοκληρώθηκε με επιτυχία!"
+msgid "Failed to install Example!"
+msgstr "Αποτυχία εγκατάστασης του Παραδείγματος!"
+msgid "JamesDSP Install"
+msgstr "Εγκατάσταση JamesDSP"
+msgid "Installing JamesDSP, Please wait..."
+msgstr "Εγκατάσταση του JamesDSP, Παρακαλώ περιμένετε..."
+msgid "JamesDSP installed successfully!"
+msgstr "Η εγκατάσταση του JamesDSP ολοκληρώθηκε με επιτυχία!"
+msgid "Failed to install jamesDSP!"
+msgstr "Αποτυχία εγκατάστασης του jamesDSP!"
+msgid "kzones Install"
+msgstr "kzones Εγκατάσταση"
+msgid "Installing Kzones, Please wait..."
+msgstr "Εγκατάσταση Kzones, Παρακαλώ περιμένετε..."
+msgid "Kzones installed successfully!"
+msgstr "Οι Kzones εγκαταστάθηκαν με επιτυχία!"
+msgid "Bash Power Install"
+msgstr "Εγκατάσταση Bash Power"
+msgid "Installing Bash Power, Please wait..."
+msgstr "Εγκατάσταση Bash Power, Παρακαλώ περιμένετε..."
+msgid "Bash Power Uninstall"
+msgstr "Απεγκατάσταση Bash Power"
+msgid "Uninstalling Bash Power, Please wait..."
+msgstr "Απεγκατάσταση του Bash Power, Παρακαλώ περιμένετε..."
+msgid "Bash Power installed successfully!"
+msgstr "Η εγκατάσταση του Bash Power ολοκληρώθηκε με επιτυχία!"
+msgid "Failed to install Bash Power!"
+msgstr "Αποτυχία εγκατάστασης του Bash Power!"
+msgid "Recent Files enabling...."
+msgstr "Ενεργοποίηση πρόσφατων αρχείων...."
+msgid "Recent Files enabling, Please wait..."
+msgstr "Ενεργοποίηση πρόσφατων αρχείων, Παρακαλώ περιμένετε..."
+msgid "Recent Files disabling...."
+msgstr "Απενεργοποίηση πρόσφατων αρχείων...."
+msgid "Recent Files disabling, Please wait..."
+msgstr "Απενεργοποίηση πρόσφατων αρχείων, Παρακαλώ περιμένετε..."
 msgid ""
-"GRUB updated successfully!\\n"
-"Restart your computer for it to take effect."
+"Recent Files successfully enabled!\\n"
+"You need to close and reopen Dolphin for it to take effect."
 msgstr ""
-"Ο GRUB ενημερώθηκε με επιτυχία!\\n"
-"Επανεκκινήστε τον υπολογιστή σας για να ισχύσει."
-msgid "An error occurred while updating GRUB."
-msgstr "Παρουσιάστηκε σφάλμα κατά την ενημέρωση του GRUB."
-msgid "Already disabled. No changes made."
-msgstr "Ήδη απενεργοποιημένο. Δεν έγιναν αλλαγές."
-msgid "Limits updated successfully!"
-msgstr "Οι περιορισμοί ενημερώθηκαν με επιτυχία!"
-msgid "An error occurred while updating Limits."
-msgstr "Παρουσιάστηκε σφάλμα κατά την ενημέρωση των Ορίων."
-msgid "GRUB updated successfully!"
-msgstr "Ο GRUB ενημερώθηκε με επιτυχία!"
-msgid "Aguarde..."
-msgstr "Αναμονή..."
-msgid "Aplicando, Aguarde..."
-msgstr "Εφαρμόζοντας, Παρακαλώ περιμένετε..."
-msgid "Botões da janela no lado esquerdo"
-msgstr "Κουμπιά παραθύρου στα αριστερά"
-msgid "Ocultar Gerenciador de Boot (GRUB)"
-msgstr "Απόκρυψη Διαχειριστή Εκκίνησης (GRUB)"
-msgid "Grub"
-msgstr "Γκρουμπ"
-msgid "Cuidado, você perderá acesso aos SnapShots. Tem certeza que deseja ocultar o grub?"
-msgstr "Προσοχή, θα χάσετε την πρόσβαση στα SnapShots. Είστε σίγουροι ότι θέλετε να αποκρύψετε το grub;"
-msgid "Não"
-msgstr "Δεν"
-msgid "Você saberá retornar o Grub em caso de falha?"
-msgstr "Δεν μπορώ να απαντήσω σε αυτό."
-msgid "Você saberá acessar os SnapShots sem acesso ao modo Gráfico?"
-msgstr "Θα μπορείτε να αποκτήσετε πρόσβαση στα SnapShots χωρίς πρόσβαση στη Γραφική διεπαφή;"
-msgid "Você está completamente seguro dessa aplicação?"
-msgstr "Δεν μπορώ να απαντήσω σε αυτό."
-msgid "Aplicando, aguarde..."
-msgstr "Εφαρμόζοντας, παρακαλώ περιμένετε..."
-msgid "Concluído!"
-msgstr "Ολοκληρώθηκε!"
-msgid "Ativar o NumLock ao ligar o sistema"
-msgstr "Ενεργοποίηση του NumLock κατά την εκκίνηση του συστήματος"
-msgid "Montar partições automaticamente"
-msgstr "Αυτόματη τοποθέτηση κατατμήσεων"
-msgid "Modo Desenvolvedor"
-msgstr "Λειτουργία Προγραμματιστή"
-msgid "Rolagem do mouse invertida"
-msgstr "Αντίστροφη κύλιση ποντικιού"
-msgid "Ligar RGB do teclado"
-msgstr "Ενεργοποίηση RGB του πληκτρολογίου"
-msgid "Rolagem do touchpad invertida"
-msgstr "Rolagem do touchpad invertida"
-msgid "Indexar arquivos"
-msgstr "Ευρετηρίαση αρχείων"
-msgid "Bloquear a edição da área de trabalho"
-msgstr "Αποκλεισμός της επεξεργασίας της επιφάνειας εργασίας"
-msgid "Desativar efeitos do desktop"
-msgstr "Απενεργοποίηση εφέ επιφάνειας εργασίας"
-msgid "Se estiver utilizando algum navegador, reinicie-o para aplicar as alterações."
-msgstr "Εάν χρησιμοποιείτε κάποιον περιηγητή, επανεκκινήστε τον για να εφαρμόσετε τις αλλαγές."
-msgid "Aceleração do navegador"
-msgstr "Επιτάχυνση προγράμματος περιήγησης"
-msgid "BTRFS sem fsync"
-msgstr "BTRFS χωρίς fsync"
-msgid "Abrir"
-msgstr "Άνοιγμα"
-msgid "Procurar..."
-msgstr "Αναζήτηση..."
-msgid "Desempenho"
+"Τα πρόσφατα αρχεία ενεργοποιήθηκαν με επιτυχία!\\n"
+"Πρέπει να κλείσετε και να ξανανοίξετε το Dolphin για να έχει αποτέλεσμα."
+msgid ""
+"Recent Files successfully disabled!\\n"
+"You need to close and reopen Dolphin for it to take effect."
+msgstr ""
+"Τα πρόσφατα αρχεία απενεργοποιήθηκαν με επιτυχία!\\n"
+"Πρέπει να κλείσετε και να ξανανοίξετε το Dolphin για να έχει αποτέλεσμα."
+msgid "Failed to enable Recent Files!"
+msgstr "Αποτυχία ενεργοποίησης των Πρόσφατων Αρχείων!"
+msgid ""
+"Ollama server is running.\\n"
+"Address: http://localhost:11434"
+msgstr ""
+"Ο διακομιστής Ollama εκτελείται.\\n"
+"Διεύθυνση: http://localhost:11434"
+msgid "Ollama ROCm Install"
+msgstr "Ollama ROCm Εγκατάσταση"
+msgid "Installing Ollama ROCm, Please wait..."
+msgstr "Εγκατάσταση του Ollama ROCm, Παρακαλώ περιμένετε..."
+msgid "Ollama ROCm Uninstall"
+msgstr "Ollama ROCm Απεγκατάσταση"
+msgid "Uninstalling Ollama ROCm, Please wait..."
+msgstr "Απεγκατάσταση του Ollama ROCm, Παρακαλώ περιμένετε..."
+msgid "Ollama ROCm installed successfully!"
+msgstr "Η εγκατάσταση του Ollama ROCm ολοκληρώθηκε με επιτυχία!"
+msgid "Failed to install Ollama ROCm!"
+msgstr "Αποτυχία εγκατάστασης του Ollama ROCm!"
+msgid "Ollama Vulkan Install"
+msgstr "Εγκατάσταση Ollama Vulkan"
+msgid "Installing Ollama, Please wait..."
+msgstr "Εγκατάσταση του Ollama, Παρακαλώ περιμένετε..."
+msgid "Ollama Vulkan Uninstall"
+msgstr "Απεγκατάσταση Ollama Vulkan"
+msgid "Uninstalling Ollama Vulkan, Please wait..."
+msgstr "Απεγκατάσταση του Ollama Vulkan, Παρακαλώ περιμένετε..."
+msgid "Ollama Vulkan installed successfully!"
+msgstr "Η εγκατάσταση του Ollama Vulkan ολοκληρώθηκε με επιτυχία!"
+msgid "Failed to install Ollama Vulkan!"
+msgstr "Αποτυχία εγκατάστασης του Ollama Vulkan!"
+msgid "Ollama Install"
+msgstr "Εγκατάσταση Ollama"
+msgid "Ollama Uninstall"
+msgstr "Απεγκατάσταση Ollama"
+msgid "Uninstalling Ollama, Please wait..."
+msgstr "Απεγκατάσταση του Ollama, Παρακαλώ περιμένετε..."
+msgid "Ollama installed successfully!"
+msgstr "Η εγκατάσταση του Ollama ολοκληρώθηκε με επιτυχία!"
+msgid "Failed to install Ollama!"
+msgstr "Αποτυχία εγκατάστασης του Ollama!"
+msgid "Ollama CUDA Install"
+msgstr "Εγκατάσταση Ollama CUDA"
+msgid "Installing Ollama CUDA, Please wait..."
+msgstr "Εγκατάσταση Ollama CUDA, Παρακαλώ περιμένετε..."
+msgid "Ollama CUDA Uninstall"
+msgstr "Απεγκατάσταση Ollama CUDA"
+msgid "Uninstalling Ollama CUDA, Please wait..."
+msgstr "Απεγκατάσταση του Ollama CUDA, Παρακαλώ περιμένετε..."
+msgid "Ollama CUDA installed successfully!"
+msgstr "Η Ollama CUDA εγκαταστάθηκε με επιτυχία!"
+msgid "Failed to install Ollama CUDA!"
+msgstr "Αποτυχία εγκατάστασης του Ollama CUDA!"
+msgid "Krita Install"
+msgstr "Εγκατάσταση του Krita"
+msgid "Installing Krita, Please wait..."
+msgstr "Εγκατάσταση του Krita, Παρακαλώ περιμένετε..."
+msgid "Krita Uninstall"
+msgstr "Απεγκατάσταση του Krita"
+msgid "Uninstalling Krita, Please wait..."
+msgstr "Απεγκατάσταση του Krita, Παρακαλώ περιμένετε..."
+msgid "Krita installed successfully!"
+msgstr "Το Krita εγκαταστάθηκε με επιτυχία!"
+msgid "Failed to install Krita!"
+msgstr "Αποτυχία εγκατάστασης του Krita!"
+msgid "Hermes Agent Deskto Install"
+msgstr "Εγκατάσταση Hermes Agent Desktop"
+msgid "Installing Hermes Agent Deskto, Please wait..."
+msgstr "Εγκατάσταση Hermes Agent Desktop, Παρακαλώ περιμένετε..."
+msgid "Hermes Agent Deskto Uninstall"
+msgstr "Απεγκατάσταση Hermes Agent Desktop"
+msgid "Uninstalling Hermes Agent Deskto, Please wait..."
+msgstr "Απεγκατάσταση του Hermes Agent Desktop, Παρακαλώ περιμένετε..."
+msgid "Hermes Agent Deskto installed successfully!"
+msgstr "Η επιφάνεια εργασίας του Hermes Agent εγκαταστάθηκε με επιτυχία!"
+msgid "Failed to install Hermes Agent Deskto!"
+msgstr "Αποτυχία εγκατάστασης του Hermes Agent Desktop!"
+msgid ""
+"Ollama shared successfully.\\n"
+"Address: http://$localIp:11434"
+msgstr ""
+"Ο Ollama μοιράστηκε με επιτυχία.\\n"
+"Διεύθυνση: http://$localIp:11434"
+msgid "Failed to shared Ollama!"
+msgstr "Αποτυχία στην κοινή χρήση του Ollama!"
+msgid "AMD/Nvidia GPU not found!"
+msgstr "Δεν βρέθηκε GPU AMD/Nvidia!"
+msgid "ChatBox Install"
+msgstr "Εγκατάσταση ChatBox"
+msgid "Installing ChatBox, Please wait..."
+msgstr "Εγκατάσταση του ChatBox, Παρακαλώ περιμένετε..."
+msgid "ChatBox Uninstall"
+msgstr "Απεγκατάσταση ChatBox"
+msgid "Uninstalling ChatBox, Please wait..."
+msgstr "Απεγκατάσταση του ChatBox, Παρακαλώ περιμένετε..."
+msgid "ChatBox installed successfully!"
+msgstr "Η εγκατάσταση του ChatBox ολοκληρώθηκε με επιτυχία!"
+msgid "Failed to install ChatBox!"
+msgstr "Αποτυχία εγκατάστασης του ChatBox!"
+msgid ""
+"Generative AI for Krita has been successfully installed.\\n"
+"\\n"
+"Open Krita, open an existing drawing or create a new one.\\n"
+"In the top panel go to Settings > Panels > check the AI Image Generation box.\\n"
+"\\n"
+"In the window that opens on the bottom right.\\n"
+"Click Configure > Local Managed Server, choose your GPU or CPU, choose the model in Workloads and "
+"click Install."
+msgstr ""
+"Η Γενετική Τεχνητή Νοημοσύνη για το Krita έχει εγκατασταθεί με επιτυχία.\\n"
+"\\n"
+"Ανοίξτε το Krita, ανοίξτε ένα υπάρχον σχέδιο ή δημιουργήστε ένα νέο.\\n"
+"Στο επάνω πάνελ πηγαίνετε στις Ρυθμίσεις > Πάνελ > ελέγξτε το πλαίσιο Δημιουργίας Εικόνας AI.\\n"
+"\\n"
+"Στο παράθυρο που ανοίγει κάτω δεξιά.\\n"
+"Κάντε κλικ στην Ρύθμιση > Τοπικός Διαχειριζόμενος Διακομιστής, επιλέξτε την GPU ή την CPU σας, "
+"επιλέξτε το μοντέλο στα Φορτία και κάντε κλικ στην Εγκατάσταση."
+msgid "Generative AI for Krita has not been successfully installed."
+msgstr "Η γενετική AI για το Krita δεν έχει εγκατασταθεί με επιτυχία."
+msgid "LM Studio Install"
+msgstr "Εγκατάσταση LM Studio"
+msgid "Installing LM Studio, Please wait..."
+msgstr "Εγκατάσταση του LM Studio, Παρακαλώ περιμένετε..."
+msgid "LM Studio Uninstall"
+msgstr "Απεγκατάσταση LM Studio"
+msgid "Uninstalling LM Studio, Please wait..."
+msgstr "Απεγκατάσταση του LM Studio, Παρακαλώ περιμένετε..."
+msgid "LM Studio installed successfully!"
+msgstr "Η εγκατάσταση του LM Studio ολοκληρώθηκε με επιτυχία!"
+msgid "Failed to install LM Studio!"
+msgstr "Αποτυχία εγκατάστασης του LM Studio!"
+msgid "comfyUI Depends Install"
+msgstr "comfyUI Εξαρτήσεις Εγκατάσταση"
+msgid "Installing comfyUI Depends, Please wait..."
+msgstr "Εγκατάσταση εξαρτήσεων comfyUI, παρακαλώ περιμένετε..."
+msgid "comfyUI Depends installed successfully!"
+msgstr "Η εξάρτηση ComfyUI εγκαταστάθηκε με επιτυχία!"
+msgid "Failed to install comfyUI Depends!"
+msgstr "Αποτυχία εγκατάστασης του comfyUI Εξαρτάται!"
+msgid "Ollama Lab Install"
+msgstr "Εγκατάσταση Ollama Lab"
+msgid "Installing Ollama Lab, Please wait..."
+msgstr "Εγκατάσταση του Ollama Lab, Παρακαλώ περιμένετε..."
+msgid "Ollama Lab Uninstall"
+msgstr "Απεγκατάσταση Ollama Lab"
+msgid "Uninstalling Ollama Lab, Please wait..."
+msgstr "Απεγκατάσταση του Ollama Lab, Παρακαλώ περιμένετε..."
+msgid "Ollama Lab installed successfully!"
+msgstr "Η εγκατάσταση του Ollama Lab ολοκληρώθηκε με επιτυχία!"
+msgid "Failed to install Ollama Lab!"
+msgstr "Αποτυχία εγκατάστασης του Ollama Lab!"
+msgid "comfyUI Install...."
+msgstr "comfyUI Εγκατάσταση...."
+msgid "Installing comfyUI, this step take a long time, Please wait..."
+msgstr "Εγκαθιστώντας το comfyUI, αυτό το βήμα διαρκεί πολύ, παρακαλώ περιμένετε..."
+msgid "Uninstall comfyUI...."
+msgstr "Απεγκατάσταση του comfyUI...."
+msgid "Uninstalling comfyUI, Please wait..."
+msgstr "Απεγκαθιστώ το comfyUI, Παρακαλώ περιμένετε..."
+msgid "comfyUI installed successfully"
+msgstr "Η εγκατάσταση του ComfyUI ολοκληρώθηκε με επιτυχία."
+msgid "comfyUI uninstalled successfully"
+msgstr "Η εγκατάσταση του comfyUI απεγκαταστάθηκε με επιτυχία."
+msgid "Failed to install comfyUI!"
+msgstr "Αποτυχία εγκατάστασης του comfyUI!"
+# 
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/performance_games_page.py, line: 181
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/performance_games_page.py, line: 195
+# 
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/performance_games_page.py, line: 181
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/performance_games_page.py, line: 195
+# 
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/performance_games_page.py, line: 244
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/performance_games_page.py, line: 256
+# 
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/performance_games_page.py, line: 244
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/performance_games_page.py, line: 256
+# 
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/usability/gamemode_dialog.py, line: 204
+msgid "Performance"
 msgstr "Απόδοση"
-msgid "Configurações do Brave"
-msgstr "Ρυθμίσεις του Brave"
-msgid "Remover propagandas"
-msgstr "Αφαίρεση διαφημίσεων"
-msgid "Suportar criptomoedas"
-msgstr "Υποστήριξη κρυπτονομισμάτων"
-msgid "Escolher programas a serem carregados na memória durante boot"
-msgstr "Επιλέξτε προγράμματα που θα φορτωθούν στη μνήμη κατά την εκκίνηση."
-msgid "Usabilidade"
-msgstr "Χρηστικότητα"
-msgid "BigLinux Ajustes"
-msgstr "BigLinux Ρυθμίσεις"
 # 
-# File: biglinux-settings/usr/share/biglinux/biglinux-settings/main.py, line: 107
-msgid "Usability"
-msgstr "Χρηστικότητα"
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/performance_games_page.py, line: 16
+msgid "BigLinux performance tweaks."
+msgstr "Βελτιστοποιήσεις απόδοσης BigLinux."
 # 
-# File: biglinux-settings/usr/share/biglinux/biglinux-settings/system_usability_page.py, line: 104
-msgid "User and Visual system settings"
-msgstr "Ρυθμίσεις χρήστη και οπτικού συστήματος"
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/usability/gamemode_config_dialog.py, line: 91
+msgid "Disable Visual Effects"
+msgstr "Απενεργοποίηση Οπτικών Εφέ"
 # 
-# #-#-#-#-#  biglinux-settings.pot (biglinux-settings)  #-#-#-#-#
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/performance_games_page.py, line: 35
+msgid "Disables KWin visual effects (blur, shadows, animations). Reduces GPU load and frees memory."
+msgstr ""
+"Απενεργοποιεί τα οπτικά εφέ του KWin (θόλωμα, σκιές, κινούμενα σχέδια). Μειώνει το φορτίο της GPU "
+"και απελευθερώνει μνήμη."
 # 
-# File: biglinux-settings/usr/share/biglinux/biglinux-settings/system_usability_page.py, line: 111
-# File: biglinux-settings/usr/share/biglinux/biglinux-settings/preload_page.py, line: 112
-msgid "Reload all statuses"
-msgstr "Επαναφόρτωση όλων των καταστάσεων"
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/performance_games_page.py, line: 63
+msgid "CPU Maximum Performance"
+msgstr "Μέγιστη Απόδοση CPU"
 # 
-# File: biglinux-settings/usr/share/biglinux/biglinux-settings/main.py, line: 114
-msgid "NumLock"
-msgstr "NumLock"
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/performance_games_page.py, line: 51
+msgid "Forces maximum processor performance mode. Ensures the processor uses maximum frequency."
+msgstr ""
+"Επιβάλλει τη μέγιστη απόδοση επεξεργαστή. Διασφαλίζει ότι ο επεξεργαστής χρησιμοποιεί τη μέγιστη "
+"συχνότητα."
 # 
-# File: biglinux-settings/usr/share/biglinux/biglinux-settings/main.py, line: 115
-msgid "Initial NumLock state. Ignored if autologin is enabled."
-msgstr "Αρχική κατάσταση NumLock. Αγνοείται αν είναι ενεργοποιημένη η αυτόματη σύνδεση."
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/performance_games_page.py, line: 79
+msgid "Disable Baloo Indexer"
+msgstr "Απενεργοποίηση του ευρετηριαστή Baloo"
 # 
-# File: biglinux-settings/usr/share/biglinux/biglinux-settings/main.py, line: 131
-msgid "Window Button On Left Side"
-msgstr "Κουμπί Παραθύρου Αριστερά"
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/performance_games_page.py, line: 67
+msgid "Disables the Baloo file indexer. Avoids disk I/O overhead."
+msgstr "Απενεργοποιεί τον δείκτη αρχείων Baloo. Αποφεύγει την επιβάρυνση I/O δίσκου."
 # 
-# File: biglinux-settings/usr/share/biglinux/biglinux-settings/main.py, line: 132
-msgid "Maximize, minimize, and close buttons on the left side of the window."
-msgstr "Κουμπιά μεγιστοποίησης, ελαχιστοποίησης και κλεισίματος στην αριστερή πλευρά του παραθύρου."
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/usability/gamemode_config_dialog.py, line: 136
+msgid "Unload S.M.A.R.T Monitor"
+msgstr "Απεγκατάσταση παρακολούθησης S.M.A.R.T"
 # 
-# File: biglinux-settings/usr/share/biglinux/biglinux-settings/system_usability_page.py, line: 133
-msgid "SSH until next reboot"
-msgstr "SSH μέχρι την επόμενη επανεκκίνηση"
-# 
-# File: biglinux-settings/usr/share/biglinux/biglinux-settings/main.py, line: 133
-msgid "Enable remote access via ssh until next boot."
-msgstr "Ενεργοποιήστε την απομακρυσμένη πρόσβαση μέσω ssh μέχρι την επόμενη εκκίνηση."
-# 
-# File: biglinux-settings/usr/share/biglinux/biglinux-settings/main.py, line: 108
-msgid "System"
-msgstr "Σύστημα"
-# 
-# File: biglinux-settings/usr/share/biglinux/biglinux-settings/main.py, line: 109
-msgid "General system settings"
-msgstr "Γενικές ρυθμίσεις συστήματος"
-# 
-# File: biglinux-settings/usr/share/biglinux/biglinux-settings/system_usability_page.py, line: 147
-msgid "SSH always on"
-msgstr "SSH πάντα ενεργό"
-# 
-# File: biglinux-settings/usr/share/biglinux/biglinux-settings/main.py, line: 149
-msgid "Turn on ssh remote access at boot."
-msgstr "Ενεργοποιήστε την απομακρυσμένη πρόσβαση ssh κατά την εκκίνηση."
-# 
-# File: biglinux-settings/usr/share/biglinux/biglinux-settings/main.py, line: 162
-msgid "Fast Grub"
-msgstr "Γρήγορος Grub"
-# 
-# File: biglinux-settings/usr/share/biglinux/biglinux-settings/main.py, line: 163
-msgid "Decreases grub display time."
-msgstr "Μειώνει τον χρόνο εμφάνισης του grub."
-# 
-# File: biglinux-settings/usr/share/biglinux/biglinux-settings/main.py, line: 170
-msgid "Auto-mount Partitions"
-msgstr "Αυτόματη τοποθέτηση κατατμήσεων"
-# 
-# File: biglinux-settings/usr/share/biglinux/biglinux-settings/main.py, line: 171
-msgid "Auto mount partitions in internal disks on boot."
-msgstr "Αυτόματη τοποθέτηση κατατμήσεων σε εσωτερικούς δίσκους κατά την εκκίνηση."
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/performance_games_page.py, line: 83
+msgid "Disables S.M.A.R.T disk monitoring. Reduces disk I/O and CPU usage."
+msgstr "Απενεργοποιεί την παρακολούθηση δίσκου S.M.A.R.T. Μειώνει τη χρήση I/O δίσκου και CPU."
 # 
 # File: biglinux-settings/usr/share/biglinux/biglinux-settings/system_usability_page.py, line: 169
 msgid "Meltdown Mitigations off"
 msgstr "Απενεργοποίηση μετριασμών Meltdown"
 # 
-# File: biglinux-settings/usr/share/biglinux/biglinux-settings/system_usability_page.py, line: 170
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/system_usability_page.py, line: 113
 #, python-brace-format
 msgid ""
 "Using mitigations=off will make your machine faster and less secure! For more information see: <a "
-"href='{link}'>{link}</a>"
+"href='{l}'>{l}</a>"
 msgstr ""
 "Η χρήση του mitigations=off θα κάνει τη μηχανή σας ταχύτερη και λιγότερο ασφαλή! Για περισσότερες "
-"πληροφορίες δείτε: <a href='{link}'>{link}</a>"
+"πληροφορίες δείτε: <a href='{l}'>{l}</a>"
 # 
 # File: biglinux-settings/usr/share/biglinux/biglinux-settings/system_usability_page.py, line: 176
 msgid "noWatchdog"
@@ -211,29 +374,102 @@ msgstr ""
 "Απενεργοποιεί το υλικό παρακολούθησης και τα συστήματα χρονισμού TSC, διατηρώντας υψηλή απόδοση "
 "αλλά αφαιρώντας τις αυτόματες προστασίες κατά των κρασαρισμάτων του συστήματος."
 # 
-# File: biglinux-settings/usr/share/biglinux/biglinux-settings/system_usability_page.py, line: 190
-msgid "Wifi"
-msgstr "Wifi"
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/main.py, line: 49
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/main.py, line: 120
+msgid "BigLinux Settings"
+msgstr "Ρυθμίσεις BigLinux"
 # 
-# File: biglinux-settings/usr/share/biglinux/biglinux-settings/system_usability_page.py, line: 191
-msgid "Wifi On"
-msgstr "Wifi Ενεργό"
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/main.py, line: 135
+msgid "Categories"
+msgstr "Κατηγορίες"
 # 
-# File: biglinux-settings/usr/share/biglinux/biglinux-settings/system_usability_page.py, line: 197
-msgid "Bluetooth"
-msgstr "Μπλουτούθ"
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/main.py, line: 144
+msgid "Search..."
+msgstr "Αναζήτηση..."
 # 
-# File: biglinux-settings/usr/share/biglinux/biglinux-settings/system_usability_page.py, line: 198
-msgid "Bluetooth On."
-msgstr "Bluetooth Ενεργό."
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/devices/keyboard_led_dialog.py, line: 249
+msgid "Settings"
+msgstr "Ρυθμίσεις"
+# 
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/main.py, line: 108
+msgid "System"
+msgstr "Σύστημα"
+# 
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/devices/jamesdsp_dialog.py, line: 208
+# 
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/devices/jamesdsp_dialog.py, line: 208
+# 
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/devices/jamesdsp_dialog.py, line: 208
+# 
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/devices/jamesdsp_dialog.py, line: 208
+# 
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/devices/jamesdsp_dialog.py, line: 208
+# 
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/devices/jamesdsp_dialog.py, line: 208
+# 
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/main.py, line: 107
+msgid "Usability"
+msgstr "Χρηστικότητα"
+# 
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/main.py, line: 158
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/main.py, line: 167
+msgid "PreLoad"
+msgstr "Προφόρτωση"
+# 
+# #-#-#-#-#  biglinux-settings.pot (biglinux-settings)  #-#-#-#-#
+# 
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/dispositivos_page.py, line: 25
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/main.py, line: 116
+msgid "Devices"
+msgstr "Συσκευές"
+# 
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/main.py, line: 161
+msgid "A.I."
+msgstr "Τεχνητή Νοημοσύνη"
 # 
 # File: biglinux-settings/usr/share/biglinux/biglinux-settings/system_usability_page.py, line: 204
 msgid "Docker"
 msgstr "Ντόκερ"
 # 
-# File: biglinux-settings/usr/share/biglinux/biglinux-settings/system_usability_page.py, line: 205
-msgid "Docker Enabled."
-msgstr "Ενεργοποιημένο Docker."
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/preload_page.py, line: 103
+msgid "Preload"
+msgstr "Προφόρτωση"
+# 
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/preload_page.py, line: 105
+msgid "Preload applications into memory to open them faster."
+msgstr "Φορτώστε τις εφαρμογές στη μνήμη για να τις ανοίξετε πιο γρήγορα."
+# 
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/preload_page.py, line: 120
+msgid "Firefox"
+msgstr "ΦαIREFOX"
+# 
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/preload_page.py, line: 126
+msgid "Brave"
+msgstr "Γενναίος"
+# 
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/preload_page.py, line: 132
+msgid "Chrome"
+msgstr "Κρόμειο"
+# 
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/preload_page.py, line: 138
+msgid "Chromium"
+msgstr "Χρωμίου"
+# 
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/preload_page.py, line: 126
+msgid "Librewolf"
+msgstr "Λιμπρέγουλφ"
+# 
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/preload_page.py, line: 144
+msgid "Palemoon"
+msgstr "Παλέμουν"
+# 
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/preload_page.py, line: 150
+msgid "Opera"
+msgstr "Όπερα"
+# 
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/preload_page.py, line: 156
+msgid "Libreoffice"
+msgstr "ΛιμπρέΟφις"
 # 
 # #-#-#-#-#  biglinux-settings.pot (biglinux-settings)  #-#-#-#-#
 # 
@@ -277,12 +513,9 @@ msgstr ""
 msgid "Unavailable: script returned invalid output."
 msgstr "Μη διαθέσιμο: το σενάριο επέστρεψε μη έγκυρη έξοδο."
 # 
-# #-#-#-#-#  biglinux-settings.pot (biglinux-settings)  #-#-#-#-#
-# 
-# File: biglinux-settings/usr/share/biglinux/biglinux-settings/system_usability_page.py, line: 226
-# File: biglinux-settings/usr/share/biglinux/biglinux-settings/preload_page.py, line: 185
-msgid "Invalid output from script {}: {}"
-msgstr "Μη έγκυρη έξοδος από το σενάριο {}: {}"
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/base_page.py, line: 261
+msgid "output from script {}: {}"
+msgstr "έξοδος από το σενάριο {}: {}"
 # 
 # #-#-#-#-#  biglinux-settings.pot (biglinux-settings)  #-#-#-#-#
 # 
@@ -330,8 +563,8 @@ msgstr "Αλλαγή {} συγχρονισμένο: {}"
 # 
 # #-#-#-#-#  biglinux-settings.pot (biglinux-settings)  #-#-#-#-#
 # 
-# File: biglinux-settings/usr/share/biglinux/biglinux-settings/system_usability_page.py, line: 327
-# File: biglinux-settings/usr/share/biglinux/biglinux-settings/preload_page.py, line: 278
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/preload_page.py, line: 284
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/system_usability_page.py, line: 334
 msgid "Indicator {} synchronized: {}"
 msgstr "Δείκτης {} συγχρονισμένος: {}"
 # 
@@ -347,50 +580,500 @@ msgstr "ΣΦΑΛΜΑ: Αποτυχία αλλαγής {} σε {}"
 msgid "Failed to change setting: {}"
 msgstr "Αποτυχία αλλαγής ρύθμισης: {}"
 # 
-# File: biglinux-settings/usr/share/biglinux/biglinux-settings/main.py, line: 52
-msgid "General adjustments"
-msgstr "Γενικές ρυθμίσεις"
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/system_usability_page.py, line: 14
+msgid "User and Visual system settings."
+msgstr "Ρυθμίσεις χρήστη και οπτικού συστήματος."
 # 
-# File: biglinux-settings/usr/share/biglinux/biglinux-settings/main.py, line: 108
-msgid "System Tweaks"
-msgstr "Ρυθμίσεις Συστήματος"
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/main.py, line: 114
+msgid "NumLock"
+msgstr "NumLock"
 # 
-# File: biglinux-settings/usr/share/biglinux/biglinux-settings/main.py, line: 111
-msgid "PreLoad"
-msgstr "Προφόρτωση"
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/main.py, line: 115
+msgid "Initial NumLock state. Ignored if autologin is enabled."
+msgstr "Αρχική κατάσταση NumLock. Αγνοείται αν είναι ενεργοποιημένη η αυτόματη σύνδεση."
 # 
-# File: biglinux-settings/usr/share/biglinux/biglinux-settings/preload_page.py, line: 103
-msgid "Preload"
-msgstr "Προφόρτωση"
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/main.py, line: 131
+msgid "Window Button On Left Side"
+msgstr "Κουμπί Παραθύρου Αριστερά"
 # 
-# File: biglinux-settings/usr/share/biglinux/biglinux-settings/preload_page.py, line: 105
-msgid "Preload applications into memory to open them faster."
-msgstr "Φορτώστε τις εφαρμογές στη μνήμη για να τις ανοίξετε πιο γρήγορα."
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/main.py, line: 132
+msgid "Maximize, minimize, and close buttons on the left side of the window."
+msgstr "Κουμπιά μεγιστοποίησης, ελαχιστοποίησης και κλεισίματος στην αριστερή πλευρά του παραθύρου."
 # 
-# File: biglinux-settings/usr/share/biglinux/biglinux-settings/preload_page.py, line: 120
-msgid "Firefox"
-msgstr "ΦαIREFOX"
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/system_usability_page.py, line: 72
+msgid "KZones"
+msgstr "KZones"
 # 
-# File: biglinux-settings/usr/share/biglinux/biglinux-settings/preload_page.py, line: 126
-msgid "Brave"
-msgstr "Γενναίος"
+# #-#-#-#-#  biglinux-settings.pot (biglinux-settings)  #-#-#-#-#
 # 
-# File: biglinux-settings/usr/share/biglinux/biglinux-settings/preload_page.py, line: 132
-msgid "Chrome"
-msgstr "Κρόμειο"
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/ai_page.py, line: 32
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/system_usability_page.py, line: 50
+msgid "Script for the KWin window manager of the KDE Plasma desktop environment."
+msgstr "Σενάριο για τον διαχειριστή παραθύρων KWin του περιβάλλοντος επιφάνειας εργασίας KDE Plasma."
 # 
-# File: biglinux-settings/usr/share/biglinux/biglinux-settings/preload_page.py, line: 138
-msgid "Chromium"
-msgstr "Χρωμίου"
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/system_usability_page.py, line: 169
+msgid "Recent Files & Locations"
+msgstr "Πρόσφατα Αρχεία & Τοποθεσίες"
 # 
-# File: biglinux-settings/usr/share/biglinux/biglinux-settings/preload_page.py, line: 144
-msgid "Palemoon"
-msgstr "Παλέμουν"
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/system_usability_page.py, line: 170
+msgid ""
+"Restores the 'Recent Files' and 'Recent Locations' functionality that appears empty in Dolphin and "
+"the Application Menu."
+msgstr ""
+"Επαναφέρει τη λειτουργία 'Πρόσφατα Αρχεία' και 'Πρόσφατες Τοποθεσίες' που εμφανίζεται κενή στο "
+"Dolphin και το Μενού Εφαρμογών."
 # 
-# File: biglinux-settings/usr/share/biglinux/biglinux-settings/preload_page.py, line: 150
-msgid "Opera"
-msgstr "Όπερα"
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/usability_page.py, line: 57
+msgid "Bash Power"
+msgstr "Bash Ικανότητα"
 # 
-# File: biglinux-settings/usr/share/biglinux/biglinux-settings/preload_page.py, line: 156
-msgid "Libreoffice"
-msgstr "ΛιμπρέΟφις"
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/usability_page.py, line: 58
+msgid "BigLinux terminal improvements and customizations."
+msgstr "Βελτιώσεις και προσαρμογές τερματικού BigLinux."
+# 
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/docker_page.py, line: 15
+msgid "Container service - enable to use containers below."
+msgstr "Υπηρεσία κοντέινερ - ενεργοποιήστε τη χρήση κοντέινερ παρακάτω."
+# 
+# #-#-#-#-#  biglinux-settings.pot (biglinux-settings)  #-#-#-#-#
+# 
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/main.py, line: 137
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/containers_page.py, line: 18
+msgid "Containers"
+msgstr "Κοντέινερς"
+# 
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/docker_page.py, line: 23
+msgid "Manage container technologies."
+msgstr "Διαχείριση τεχνολογιών κοντέινερ."
+# 
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/system_usability_page.py, line: 205
+msgid "Docker Enabled."
+msgstr "Ενεργοποιημένο Docker."
+# 
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/containers_page.py, line: 35
+msgid "Nextcloud Plus"
+msgstr "Nextcloud Plus"
+# 
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/docker_page.py, line: 45
+msgid "Install Nextcloud Plus container."
+msgstr "Εγκαταστήστε το κοντέινερ Nextcloud Plus."
+# 
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/docker_page.py, line: 52
+msgid "Run Nextcloud Plus."
+msgstr "Εκτέλεση του Nextcloud Plus."
+# 
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/docker_page.py, line: 48
+msgid ""
+"Nextcloud Plus is running.\n"
+"Address: http://localhost:8286\n"
+"and\n"
+"Address: http://{}:8286"
+msgstr ""
+"Το Nextcloud Plus εκτελείται.  \n"
+"Διεύθυνση: http://localhost:8286  \n"
+"και  \n"
+"Διεύθυνση: http://{}:8286"
+# 
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/containers_page.py, line: 44
+msgid "AdGuard"
+msgstr "AdGuard"
+# 
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/docker_page.py, line: 64
+msgid "Install AdGuard Home container."
+msgstr "Εγκαταστήστε το κοντέινερ AdGuard Home."
+# 
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/docker_page.py, line: 71
+msgid "Run AdGuard."
+msgstr "Εκτέλεση του AdGuard."
+# 
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/docker_page.py, line: 57
+msgid ""
+"AdGuard is running.\n"
+"Address: http://localhost:3030\n"
+"and\n"
+"Address: http://{}:3030"
+msgstr ""
+"AdGuard εκτελείται.\n"
+"Διεύθυνση: http://localhost:3030\n"
+"και\n"
+"Διεύθυνση: http://{}:3030"
+# 
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/containers_page.py, line: 71
+msgid "Jellyfin"
+msgstr "Jellyfin"
+# 
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/docker_page.py, line: 79
+msgid "Install Jellyfin media server."
+msgstr "Εγκαταστήστε τον διακομιστή πολυμέσων Jellyfin."
+# 
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/docker_page.py, line: 90
+msgid "Run Jellyfin."
+msgstr "Εκτέλεση του Jellyfin."
+# 
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/docker_page.py, line: 75
+msgid ""
+"Jellyfin is running.\n"
+"Address: http://localhost:8096\n"
+"and\n"
+"Address: http://{}:8096"
+msgstr ""
+"Το Jellyfin εκτελείται.  \n"
+"Διεύθυνση: http://localhost:8096  \n"
+"και  \n"
+"Διεύθυνση: http://{}:8096"
+# 
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/containers_page.py, line: 80
+msgid "LAMP"
+msgstr "ΛΑΜΠ"
+# 
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/docker_page.py, line: 102
+msgid "Install LAMP stack (Linux, Apache, MySQL, PHP)."
+msgstr "Εγκαταστήστε το LAMP stack (Linux, Apache, MySQL, PHP)."
+# 
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/docker_page.py, line: 109
+msgid "Run LAMP."
+msgstr "Εκτέλεση LAMP."
+# 
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/docker_page.py, line: 84
+msgid ""
+"LAMP is running.\n"
+"Address: http://localhost:8080\n"
+"and\n"
+"Address: http://{}:8080"
+msgstr ""
+"LAMP εκτελείται.\n"
+"Διεύθυνση: http://localhost:8080\n"
+"και\n"
+"Διεύθυνση: http://{}:8080"
+# 
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/containers_page.py, line: 89
+msgid "Portainer Client"
+msgstr "Client Portainer"
+# 
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/docker_page.py, line: 121
+msgid "Install Portainer Agent for cluster management."
+msgstr "Εγκαταστήστε τον πράκτορα Portainer για τη διαχείριση του κλάσματος."
+# 
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/docker_page.py, line: 128
+msgid "Run Portainer Client."
+msgstr "Εκτέλεση Πελάτη Portainer."
+# 
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/docker_page.py, line: 93
+msgid ""
+"Portainer Client is running.\n"
+"Address: http://localhost:9000\n"
+"and\n"
+"Address: http://{}:9000"
+msgstr ""
+"Ο πελάτης Portainer εκτελείται.  \n"
+"Διεύθυνση: http://localhost:9000  \n"
+"και  \n"
+"Διεύθυνση: http://{}:9000"
+# 
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/containers_page.py, line: 98
+msgid "SWS"
+msgstr "SWS"
+# 
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/docker_page.py, line: 140
+msgid "Install SWS static web server."
+msgstr "Εγκαταστήστε τον στατικό διακομιστή ιστού SWS."
+# 
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/docker_page.py, line: 147
+msgid "Run SWS."
+msgstr "Εκτέλεση SWS."
+# 
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/docker_page.py, line: 102
+msgid ""
+"SWS is running.\n"
+"Address: http://localhost:8182\n"
+"and\n"
+"Address: http://{}:8182"
+msgstr ""
+"SWS εκτελείται.\n"
+"Διεύθυνση: http://localhost:8182\n"
+"και\n"
+"Διεύθυνση: http://{}:8182"
+# 
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/containers_page.py, line: 107
+msgid "V2RayA"
+msgstr "V2RayA"
+# 
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/docker_page.py, line: 159
+msgid "Install V2RayA network tool."
+msgstr "Εγκαταστήστε το εργαλείο δικτύου V2RayA."
+# 
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/docker_page.py, line: 166
+msgid "Run V2RayA."
+msgstr "Εκτέλεση V2RayA."
+# 
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/docker_page.py, line: 111
+msgid ""
+"V2RayA is running.\n"
+"Address: http://localhost:2017\n"
+"and\n"
+"Address: http://{}:2017"
+msgstr ""
+"Το V2RayA εκτελείται.  \n"
+"Διεύθυνση: http://localhost:2017  \n"
+"και  \n"
+"Διεύθυνση: http://{}:2017"
+# 
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/docker_page.py, line: 178
+msgid "Install An open source, privacy-focused alternative to Google's Notebook LM!"
+msgstr ""
+"Εγκαταστήστε μια ανοιχτού κώδικα, προσανατολισμένη στην ιδιωτικότητα εναλλακτική λύση στο Google "
+"Notebook LM!"
+# 
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/docker_page.py, line: 185
+msgid "Run Open Notebook."
+msgstr "Εκτέλεση Ανοιχτού Σημειωματάριου."
+# 
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/docker_page.py, line: 190
+msgid ""
+"Open Notebook is running.\n"
+"Address: http://localhost:8502\n"
+"and\n"
+"Address: http://{}:8502"
+msgstr ""
+"Το Open Notebook εκτελείται.  \n"
+"Διεύθυνση: http://localhost:8502  \n"
+"και  \n"
+"Διεύθυνση: http://{}:8502"
+# 
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/system_page.py, line: 26
+msgid "General system settings."
+msgstr "Γενικές ρυθμίσεις συστήματος."
+# 
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/system_page.py, line: 21
+msgid "SSH"
+msgstr "SSH"
+# 
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/system_page.py, line: 22
+msgid "Enable remote access via ssh."
+msgstr "Ενεργοποιήστε την απομακρυσμένη πρόσβαση μέσω ssh."
+# 
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/system_page.py, line: 27
+msgid "SSH Address: {}"
+msgstr "Διεύθυνση SSH: {}"
+# 
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/system_usability_page.py, line: 147
+msgid "SSH always on"
+msgstr "SSH πάντα ενεργό"
+# 
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/main.py, line: 149
+msgid "Turn on ssh remote access at boot."
+msgstr "Ενεργοποιήστε την απομακρυσμένη πρόσβαση ssh κατά την εκκίνηση."
+# 
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/main.py, line: 162
+msgid "Fast Grub"
+msgstr "Γρήγορος Grub"
+# 
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/main.py, line: 163
+msgid "Decreases grub display time."
+msgstr "Μειώνει τον χρόνο εμφάνισης του grub."
+# 
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/main.py, line: 170
+msgid "Auto-mount Partitions"
+msgstr "Αυτόματη τοποθέτηση κατατμήσεων"
+# 
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/main.py, line: 171
+msgid "Auto mount partitions in internal disks on boot."
+msgstr "Αυτόματη τοποθέτηση κατατμήσεων σε εσωτερικούς δίσκους κατά την εκκίνηση."
+# 
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/devices_page.py, line: 15
+msgid "Manage physical devices."
+msgstr "Διαχείριση φυσικών συσκευών."
+# 
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/system_usability_page.py, line: 190
+msgid "Wifi"
+msgstr "Wifi"
+# 
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/system_usability_page.py, line: 191
+msgid "Wifi On"
+msgstr "Wifi Ενεργό"
+# 
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/system_usability_page.py, line: 197
+msgid "Bluetooth"
+msgstr "Μπλουτούθ"
+# 
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/system_usability_page.py, line: 198
+msgid "Bluetooth On."
+msgstr "Bluetooth Ενεργό."
+# 
+# #-#-#-#-#  biglinux-settings.pot (biglinux-settings)  #-#-#-#-#
+# 
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/dispositivos_page.py, line: 77
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/devices/jamesdsp_dialog.py, line: 155
+msgid "JamesDSP"
+msgstr "JamesDSP"
+# 
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/dispositivos_page.py, line: 84
+msgid "Advanced audio effects processor that improves sound quality."
+msgstr "Προηγμένος επεξεργαστής ηχητικών εφέ που βελτιώνει την ποιότητα ήχου."
+# 
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/devices_page.py, line: 71
+msgid "Reverse mouse scrolling"
+msgstr "Αντιστροφή κύλισης ποντικιού"
+# 
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/devices_page.py, line: 72
+msgid "Reverse mouse scrolling without restarting the session."
+msgstr "Αντιστροφή κύλισης ποντικιού χωρίς επανεκκίνηση της συνεδρίας."
+# 
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/ai_page.py, line: 30
+msgid "AI Interfaces"
+msgstr "Διεπαφές Τεχνητής Νοημοσύνης"
+# 
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/ai_page.py, line: 31
+msgid "Graphical interface for artificial intelligence.."
+msgstr "Γραφική διεπαφή για τεχνητή νοημοσύνη."
+# 
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/ai_page.py, line: 29
+msgid "Ollama Server"
+msgstr "Ollama Διακομιστής"
+# 
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/ai_page.py, line: 23
+msgid "Choose which Ollama server is best for your hardware."
+msgstr "Επιλέξτε ποιος διακομιστής Ollama είναι καλύτερος για το υλικό σας."
+# 
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/ai_page.py, line: 46
+msgid "ChatAI"
+msgstr "ChatAI"
+# 
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/ai_page.py, line: 47
+msgid "A variety of chats like Plasmoid for your KDE Plasma desktop."
+msgstr "Μια ποικιλία συνομιλιών όπως το Plasmoid για την επιφάνεια εργασίας KDE Plasma."
+# 
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/ai_page.py, line: 127
+msgid "Ollama LAB"
+msgstr "Ollama ΕΡΓΑΣΤΗΡΙΟ"
+# 
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/ai_page.py, line: 128
+msgid "Graphical interface for managing Ollama models and chat."
+msgstr "Γραφική διεπαφή για τη διαχείριση μοντέλων Ollama και συνομιλιών."
+# 
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/ai_page.py, line: 136
+msgid "User-friendly Desktop Client App for AI Models/LLMs."
+msgstr "Φιλική προς τον χρήστη επιτραπέζια εφαρμογή πελάτη για μοντέλα AI/LLMs."
+# 
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/ai_page.py, line: 143
+msgid "LM Studio"
+msgstr "LM Studio"
+# 
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/ai_page.py, line: 144
+msgid "LM Studio - A desktop app for exploring and running large language models locally."
+msgstr ""
+"LM Studio - Μια επιτραπέζια εφαρμογή για την εξερεύνηση και εκτέλεση μεγάλων γλωσσικών μοντέλων "
+"τοπικά."
+# 
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/ai_page.py, line: 80
+msgid "An open source, privacy-focused alternative to Google's Notebook LM!"
+msgstr "Μια ανοιχτού κώδικα, εστιασμένη στην ιδιωτικότητα εναλλακτική λύση στο Notebook LM της Google!"
+# 
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/ai_page.py, line: 88
+msgid ""
+"Official Hermes Agent desktop app from Nous Research — chat, voice, file browser, and settings UI "
+"for the local agent runtime."
+msgstr ""
+"Επίσημη εφαρμογή επιφάνειας εργασίας Hermes Agent από την Nous Research — συνομιλία, φωνή, "
+"περιηγητής αρχείων και διεπαφή ρυθμίσεων για την τοπική εκτέλεση του πράκτορα."
+# 
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/ai_page.py, line: 87
+msgid "ComfyUI (GPU ONLY)"
+msgstr "ComfyUI (ΜΟΝΟ GPU)"
+# 
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/ai_page.py, line: 88
+msgid "The most powerful and modular visual AI engine and application."
+msgstr "Ο πιο ισχυρός και αρθρωτός οπτικός κινητήρας AI και εφαρμογή."
+# 
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/ai_page.py, line: 94
+msgid "ComfyUI Server"
+msgstr "ComfyUI Διακομιστής"
+# 
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/ai_page.py, line: 97
+#, python-brace-format
+msgid "start ComfyUI Server. For more information see: <a href='{l}'>{l}</a>"
+msgstr "εκκινήστε τον διακομιστή ComfyUI. Για περισσότερες πληροφορίες δείτε: <a href='{l}'>{l}</a>"
+# 
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/ai_page.py, line: 100
+msgid ""
+"ComfyUI server is running.\n"
+"Address: http://localhost:8188\n"
+"and\n"
+"Address: http://{}:8188"
+msgstr ""
+"Ο διακομιστής ComfyUI εκτελείται.  \n"
+"Διεύθυνση: http://localhost:8188  \n"
+"και  \n"
+"Διεύθυνση: http://{}:8188"
+# 
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/ai_page.py, line: 55
+msgid "OllamaCPU"
+msgstr "OllamaCPU"
+# 
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/ai_page.py, line: 56
+msgid "Local AI server. For CPUs only."
+msgstr "Τοπικός διακομιστής AI. Μόνο για CPU."
+# 
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/ai_page.py, line: 59
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/ai_page.py, line: 77
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/ai_page.py, line: 95
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/ai_page.py, line: 113
+msgid ""
+"Ollama server is running.\n"
+"Address: http://localhost:11434"
+msgstr ""
+"Ο διακομιστής Ollama εκτελείται.  \n"
+"Διεύθυνση: http://localhost:11434"
+# 
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/ai_page.py, line: 63
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/ai_page.py, line: 81
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/ai_page.py, line: 99
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/ai_page.py, line: 117
+msgid "Share Ollama"
+msgstr "Μοιραστείτε το Ollama"
+# 
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/ai_page.py, line: 64
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/ai_page.py, line: 82
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/ai_page.py, line: 100
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/ai_page.py, line: 118
+msgid "Share ollama on the local network."
+msgstr "Μοιραστείτε το ollama στο τοπικό δίκτυο."
+# 
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/ai_page.py, line: 68
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/ai_page.py, line: 86
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/ai_page.py, line: 104
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/ai_page.py, line: 122
+msgid ""
+"Ollama server is running.\n"
+"Address: http://{}:11434"
+msgstr ""
+"Ο διακομιστής Ollama εκτελείται.  \n"
+"Διεύθυνση: http://{}:11434"
+# 
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/ai_page.py, line: 73
+msgid "Ollama Vulkan"
+msgstr "Ollama Vulkan"
+# 
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/ai_page.py, line: 75
+msgid "Local AI server. For CPUs, AMD/Nvidia and integrated GPUs."
+msgstr "Τοπικός διακομιστής AI. Για CPU, AMD/Nvidia και ενσωματωμένες GPU."
+# 
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/ai_page.py, line: 109
+msgid "Ollama Nvidia CUDA"
+msgstr "Οllama Nvidia CUDA"
+# 
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/ai_page.py, line: 110
+msgid "Local AI server. For newer Nvidia GPUs, starting from the 2000 series."
+msgstr "Τοπικός διακομιστής AI. Για νεότερες GPU Nvidia, ξεκινώντας από τη σειρά 2000."
+# 
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/ai_page.py, line: 91
+msgid "Ollama AMD ROCm"
+msgstr "Ollama AMD ROCm"
+# 
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/ai_page.py, line: 111
+msgid ""
+"Local AI server. For newer AMD GPUs, starting from the 6000 series.\n"
+"Consider using Vulkan, in many tests, Vulkan performed better than ROCm."
+msgstr ""
+"Τοπικός διακομιστής AI. Για νεότερες GPU AMD, ξεκινώντας από τη σειρά 6000. \n"
+"Σκεφτείτε να χρησιμοποιήσετε το Vulkan, σε πολλές δοκιμές, το Vulkan απέδωσε καλύτερα από το ROCm."

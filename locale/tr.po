@@ -16,9 +16,45 @@ msgstr ""
 "X-Generator: attranslate\n"
 msgid "Applying, please wait..."
 msgstr "Uygulanıyor, lütfen bekleyin..."
+msgid ""
+"GRUB updated successfully!\\n"
+"Restart your computer for it to take effect."
+msgstr ""
+"GRUB başarıyla güncellendi!\\n"
+"Uygulamak için bilgisayarınızı yeniden başlatın."
+msgid "An error occurred while updating GRUB."
+msgstr "GRUB güncellenirken bir hata oluştu."
+msgid "Already enabled. No changes made."
+msgstr "Zaten etkinleştirildi. Değişiklik yapılmadı."
+msgid "Limits updated successfully!"
+msgstr "Limitler başarıyla güncellendi!"
+msgid "An error occurred while updating Limits."
+msgstr "Limitler güncellenirken bir hata oluştu."
+msgid "GRUB updated successfully!"
+msgstr "GRUB başarıyla güncellendi!"
+msgid "Installing $package"
+msgstr "$package kuruluyor"
+msgid "Installing $package, Please wait..."
+msgstr "$package kuruluyor, Lütfen bekleyin..."
+msgid "Removing $package"
+msgstr "$package kaldırılıyor"
+msgid "Removing $package, Please wait..."
+msgstr "$package kaldırılıyor, Lütfen bekleyin..."
+msgid ""
+"$title installed successfully!\\n"
+"\\n"
+"Configured on port $port, to access use $url"
+msgstr ""
+"$title başarıyla yüklendi!\\n"
+"\\n"
+"Erişim için $url kullanarak $port üzerinde yapılandırıldı."
+msgid "$package removed successfully!"
+msgstr "$paket başarıyla kaldırıldı!"
+msgid "An error occurred with $package."
+msgstr "$package ile ilgili bir hata oluştu."
 msgid "Docker Install"
 msgstr "Docker Kurulumu"
-msgid "Instaling Docker, Please wait..."
+msgid "Installing Docker, Please wait..."
 msgstr "Docker kuruluyor, lütfen bekleyin..."
 msgid "Docker Start"
 msgstr "Docker Başlat"
@@ -30,176 +66,293 @@ msgid "Docker Stopping, Please wait..."
 msgstr "Docker Durduruluyor, Lütfen bekleyin..."
 msgid "Docker installed successfully!"
 msgstr "Docker başarıyla yüklendi!"
-msgid "An error occurred while install docker."
+msgid "An error occurred while installing docker."
 msgstr "Docker yüklenirken bir hata oluştu."
+msgid "Example Install"
+msgstr "Örnek Kurulum"
+msgid "Installing Example, Please wait..."
+msgstr "Örnek Yükleniyor, Lütfen Bekleyin..."
+msgid "Example Uninstall"
+msgstr "Örnek Kaldırma"
+msgid "Uninstalling Example, Please wait..."
+msgstr "Örnek kaldırılıyor, lütfen bekleyin..."
+msgid "Example installed successfully!"
+msgstr "Örnek başarıyla yüklendi!"
+msgid "Failed to install Example!"
+msgstr "Örnek yüklenemedi!"
+msgid "JamesDSP Install"
+msgstr "JamesDSP Kurulumu"
+msgid "Installing JamesDSP, Please wait..."
+msgstr "JamesDSP kuruluyor, lütfen bekleyin..."
+msgid "JamesDSP installed successfully!"
+msgstr "JamesDSP başarıyla yüklendi!"
+msgid "Failed to install jamesDSP!"
+msgstr "jamesDSP yüklenemedi!"
+msgid "kzones Install"
+msgstr "kzones Kurulumu"
+msgid "Installing Kzones, Please wait..."
+msgstr "Kzones kuruluyor, lütfen bekleyin..."
+msgid "Kzones installed successfully!"
+msgstr "Kzones başarıyla yüklendi!"
+msgid "Bash Power Install"
+msgstr "Bash Güç Yüklemesi"
+msgid "Installing Bash Power, Please wait..."
+msgstr "Bash Power kuruluyor, lütfen bekleyin..."
+msgid "Bash Power Uninstall"
+msgstr "Bash Güç Kaldırma"
+msgid "Uninstalling Bash Power, Please wait..."
+msgstr "Bash Power'ı kaldırıyor, lütfen bekleyin..."
+msgid "Bash Power installed successfully!"
+msgstr "Bash Power başarıyla yüklendi!"
+msgid "Failed to install Bash Power!"
+msgstr "Bash Power'ı yükleme başarısız!"
+msgid "Recent Files enabling...."
+msgstr "Son Dosyalar etkinleştiriliyor...."
+msgid "Recent Files enabling, Please wait..."
+msgstr "Son Dosyalar etkinleştiriliyor, Lütfen bekleyin..."
+msgid "Recent Files disabling...."
+msgstr "Son Dosyalar devre dışı bırakılıyor...."
+msgid "Recent Files disabling, Please wait..."
+msgstr "Son Dosyalar devre dışı bırakılıyor, Lütfen bekleyin..."
 msgid ""
-"GRUB updated successfully!\\n"
-"Restart your computer for it to take effect."
+"Recent Files successfully enabled!\\n"
+"You need to close and reopen Dolphin for it to take effect."
 msgstr ""
-"GRUB başarıyla güncellendi!\\n"
-"Uygulamak için bilgisayarınızı yeniden başlatın."
-msgid "An error occurred while updating GRUB."
-msgstr "GRUB güncellenirken bir hata oluştu."
-msgid "Already disabled. No changes made."
-msgstr "Zaten devre dışı. Değişiklik yapılmadı."
-msgid "Limits updated successfully!"
-msgstr "Limitler başarıyla güncellendi!"
-msgid "An error occurred while updating Limits."
-msgstr "Limitler güncellenirken bir hata oluştu."
-msgid "GRUB updated successfully!"
-msgstr "GRUB başarıyla güncellendi!"
-msgid "Aguarde..."
-msgstr "Bekleyin..."
-msgid "Aplicando, Aguarde..."
-msgstr "Uygulama yapılıyor, Lütfen bekleyin..."
-msgid "Botões da janela no lado esquerdo"
-msgstr "Pencere düğmeleri sol tarafta"
-msgid "Ocultar Gerenciador de Boot (GRUB)"
-msgstr "Boot Yöneticisini (GRUB) Gizle"
-msgid "Grub"
-msgstr "Grub"
-msgid "Cuidado, você perderá acesso aos SnapShots. Tem certeza que deseja ocultar o grub?"
-msgstr "Dikkat, SnapShot'lara erişiminizi kaybedeceksiniz. Grub'u gizlemek istediğinizden emin misiniz?"
-msgid "Sim"
-msgstr "Evet"
-msgid "Você saberá retornar o Grub em caso de falha?"
-msgstr "Veri kaybı durumunda Grub'u geri yükleyebilecek misiniz?"
-msgid "Você saberá acessar os SnapShots sem acesso ao modo Gráfico?"
-msgstr "Erişim moduna ihtiyaç duymadan SnapShot'lara erişebileceksiniz."
-msgid "Você está completamente seguro dessa aplicação?"
-msgstr "Uygulamanızdan tamamen emin misiniz?"
-msgid "Aplicando, aguarde..."
-msgstr "Uygulama yapılıyor, lütfen bekleyin..."
-msgid "Concluído!"
-msgstr "Tamamlandı!"
-msgid "Ok"
-msgstr "Tamam"
-msgid "Ativar o NumLock ao ligar o sistema"
-msgstr "Sistemi açarken NumLock'u etkinleştir."
-msgid "Montar partições automaticamente"
-msgstr "Automatically mount partitions"
-msgid "Modo Desenvolvedor"
-msgstr "Geliştirici Modu"
-msgid "Rolagem do mouse invertida"
-msgstr "Rolagem fareti tersine çevrildi."
-msgid "Ligar RGB do teclado"
-msgstr "RGB klavye açma"
-msgid "Rolagem do touchpad invertida"
-msgstr "Rolama tersine."
-msgid "Indexar arquivos"
-msgstr "Dosyaları dizinle"
-msgid "Bloquear a edição da área de trabalho"
-msgstr "Masa düzenlemesini engelle."
-msgid "Desativar efeitos do desktop"
-msgstr "Masaüstü efektlerini devre dışı bırak."
-msgid "Se estiver utilizando algum navegador, reinicie-o para aplicar as alterações."
-msgstr "Tarayıcı kullanıyorsanız, değişiklikleri uygulamak için yeniden başlatın."
-msgid "Aceleração do navegador"
-msgstr "Tarayıcı hızlandırma"
-msgid "BTRFS sem fsync"
-msgstr "BTRFS sem fsync"
-msgid "Abrir"
-msgstr "Açmak"
-msgid "Procurar..."
-msgstr "Arama..."
-msgid "Desempenho"
+"Son Dosyalar başarıyla etkinleştirildi!\\n"
+"Bunun etkili olması için Dolphin'i kapatıp açmanız gerekiyor."
+msgid ""
+"Recent Files successfully disabled!\\n"
+"You need to close and reopen Dolphin for it to take effect."
+msgstr ""
+"Son Dosyalar başarıyla devre dışı bırakıldı!\\n"
+"Bunun etkili olması için Dolphin'i kapatıp açmanız gerekiyor."
+msgid "Failed to enable Recent Files!"
+msgstr "Son Dosyaları etkinleştirilemedi!"
+msgid ""
+"Ollama server is running.\\n"
+"Address: http://localhost:11434"
+msgstr ""
+"Ollama sunucusu çalışıyor.\\n"
+"Adres: http://localhost:11434"
+msgid "Ollama ROCm Install"
+msgstr "Ollama ROCm Kurulumu"
+msgid "Installing Ollama ROCm, Please wait..."
+msgstr "Ollama ROCm kuruluyor, lütfen bekleyin..."
+msgid "Ollama ROCm Uninstall"
+msgstr "Ollama ROCm Kaldırma"
+msgid "Uninstalling Ollama ROCm, Please wait..."
+msgstr "Ollama ROCm kaldırılıyor, lütfen bekleyin..."
+msgid "Ollama ROCm installed successfully!"
+msgstr "Ollama ROCm başarıyla yüklendi!"
+msgid "Failed to install Ollama ROCm!"
+msgstr "Ollama ROCm yüklemesi başarısız oldu!"
+msgid "Ollama Vulkan Install"
+msgstr "Ollama Vulkan Kurulumu"
+msgid "Installing Ollama, Please wait..."
+msgstr "Ollama kuruluyor, lütfen bekleyin..."
+msgid "Ollama Vulkan Uninstall"
+msgstr "Ollama Vulkan Kaldırma"
+msgid "Uninstalling Ollama Vulkan, Please wait..."
+msgstr "Ollama Vulkan kaldırılıyor, lütfen bekleyin..."
+msgid "Ollama Vulkan installed successfully!"
+msgstr "Ollama Vulkan başarıyla yüklendi!"
+msgid "Failed to install Ollama Vulkan!"
+msgstr "Ollama Vulkan yüklenemedi!"
+msgid "Ollama Install"
+msgstr "Ollama Kurulum"
+msgid "Ollama Uninstall"
+msgstr "Ollama Kaldır"
+msgid "Uninstalling Ollama, Please wait..."
+msgstr "Ollama kaldırılıyor, lütfen bekleyin..."
+msgid "Ollama installed successfully!"
+msgstr "Ollama başarıyla yüklendi!"
+msgid "Failed to install Ollama!"
+msgstr "Ollama yüklenemedi!"
+msgid "Ollama CUDA Install"
+msgstr "Ollama CUDA Kurulumu"
+msgid "Installing Ollama CUDA, Please wait..."
+msgstr "Ollama CUDA kuruluyor, lütfen bekleyin..."
+msgid "Ollama CUDA Uninstall"
+msgstr "Ollama CUDA Kaldırma"
+msgid "Uninstalling Ollama CUDA, Please wait..."
+msgstr "Ollama CUDA kaldırılıyor, lütfen bekleyin..."
+msgid "Ollama CUDA installed successfully!"
+msgstr "Ollama CUDA başarıyla yüklendi!"
+msgid "Failed to install Ollama CUDA!"
+msgstr "Ollama CUDA yüklemesi başarısız oldu!"
+msgid "Krita Install"
+msgstr "Krita Kurulumu"
+msgid "Installing Krita, Please wait..."
+msgstr "Krita kuruluyor, lütfen bekleyin..."
+msgid "Krita Uninstall"
+msgstr "Krita Kaldır"
+msgid "Uninstalling Krita, Please wait..."
+msgstr "Krita kaldırılıyor, lütfen bekleyin..."
+msgid "Krita installed successfully!"
+msgstr "Krita başarıyla yüklendi!"
+msgid "Failed to install Krita!"
+msgstr "Krita'yı yükleme başarısız!"
+msgid "Hermes Agent Deskto Install"
+msgstr "Hermes Ajansı Masaüstü Kurulumu"
+msgid "Installing Hermes Agent Deskto, Please wait..."
+msgstr "Hermes Agent Desktop kuruluyor, lütfen bekleyin..."
+msgid "Hermes Agent Deskto Uninstall"
+msgstr "Hermes Agent Masaüstü Kaldırma"
+msgid "Uninstalling Hermes Agent Deskto, Please wait..."
+msgstr "Hermes Agent Desktop'u kaldırıyor, lütfen bekleyin..."
+msgid "Hermes Agent Deskto installed successfully!"
+msgstr "Hermes Agent Masaüstü başarıyla yüklendi!"
+msgid "Failed to install Hermes Agent Deskto!"
+msgstr "Hermes Agent Desktop'u yükleme başarısız oldu!"
+msgid ""
+"Ollama shared successfully.\\n"
+"Address: http://$localIp:11434"
+msgstr ""
+"Ollama başarıyla paylaşıldı.\\n"
+"Adres: http://$localIp:11434"
+msgid "Failed to shared Ollama!"
+msgstr "Ollama paylaşımı başarısız oldu!"
+msgid "AMD/Nvidia GPU not found!"
+msgstr "AMD/Nvidia GPU bulunamadı!"
+msgid "ChatBox Install"
+msgstr "ChatBox Kurulum"
+msgid "Installing ChatBox, Please wait..."
+msgstr "ChatBox kuruluyor, lütfen bekleyin..."
+msgid "ChatBox Uninstall"
+msgstr "ChatBox Kaldır"
+msgid "Uninstalling ChatBox, Please wait..."
+msgstr "ChatBox kaldırılıyor, lütfen bekleyin..."
+msgid "ChatBox installed successfully!"
+msgstr "ChatBox başarıyla yüklendi!"
+msgid "Failed to install ChatBox!"
+msgstr "ChatBox kurulumu başarısız oldu!"
+msgid ""
+"Generative AI for Krita has been successfully installed.\\n"
+"\\n"
+"Open Krita, open an existing drawing or create a new one.\\n"
+"In the top panel go to Settings > Panels > check the AI Image Generation box.\\n"
+"\\n"
+"In the window that opens on the bottom right.\\n"
+"Click Configure > Local Managed Server, choose your GPU or CPU, choose the model in Workloads and "
+"click Install."
+msgstr ""
+"Krita için Üretken AI başarıyla yüklendi.\\n"
+"\\n"
+"Krita'yı açın, mevcut bir çizimi açın veya yenisini oluşturun.\\n"
+"Üst panelde Ayarlar > Paneller'e gidin > AI Görüntü Üretimi kutusunu işaretleyin.\\n"
+"\\n"
+"Açılan pencerede sağ altta.\\n"
+"Yapılandır'a tıklayın > Yerel Yönetilen Sunucu, GPU veya CPU'nuzu seçin, İş Yükleri'nde modeli "
+"seçin ve Yükle'ye tıklayın."
+msgid "Generative AI for Krita has not been successfully installed."
+msgstr "Krita için Üretken Yapay Zeka başarıyla kurulamadı."
+msgid "LM Studio Install"
+msgstr "LM Stüdyo Kurulum"
+msgid "Installing LM Studio, Please wait..."
+msgstr "LM Studio kuruluyor, lütfen bekleyin..."
+msgid "LM Studio Uninstall"
+msgstr "LM Studio Kaldır"
+msgid "Uninstalling LM Studio, Please wait..."
+msgstr "LM Studio kaldırılıyor, lütfen bekleyin..."
+msgid "LM Studio installed successfully!"
+msgstr "LM Studio başarıyla yüklendi!"
+msgid "Failed to install LM Studio!"
+msgstr "LM Studio kurulumu başarısız oldu!"
+msgid "comfyUI Depends Install"
+msgstr "comfyUI Bağımlılıkları Yükle"
+msgid "Installing comfyUI Depends, Please wait..."
+msgstr "ComfyUI Bağımlılıkları Yükleniyor, Lütfen Bekleyin..."
+msgid "comfyUI Depends installed successfully!"
+msgstr "comfyUI Bağımlılıkları başarıyla yüklendi!"
+msgid "Failed to install comfyUI Depends!"
+msgstr "comfyUI Bağımlılıklarını yükleme başarısız!"
+msgid "Ollama Lab Install"
+msgstr "Ollama Lab Kurulumu"
+msgid "Installing Ollama Lab, Please wait..."
+msgstr "Ollama Lab kuruluyor, lütfen bekleyin..."
+msgid "Ollama Lab Uninstall"
+msgstr "Ollama Lab Kaldırma"
+msgid "Uninstalling Ollama Lab, Please wait..."
+msgstr "Ollama Lab'ı kaldırıyor, lütfen bekleyin..."
+msgid "Ollama Lab installed successfully!"
+msgstr "Ollama Lab başarıyla yüklendi!"
+msgid "Failed to install Ollama Lab!"
+msgstr "Ollama Lab'ı yükleme başarısız!"
+msgid "comfyUI Install...."
+msgstr "comfyUI Kurulumu...."
+msgid "Installing comfyUI, this step take a long time, Please wait..."
+msgstr "ComfyUI kuruluyor, bu adım uzun sürüyor, lütfen bekleyin..."
+msgid "Uninstall comfyUI...."
+msgstr "ComfyUI'yi kaldır..."
+msgid "Uninstalling comfyUI, Please wait..."
+msgstr "comfyUI kaldırılıyor, lütfen bekleyin..."
+msgid "comfyUI installed successfully"
+msgstr "comfyUI başarıyla yüklendi"
+msgid "comfyUI uninstalled successfully"
+msgstr "comfyUI başarıyla kaldırıldı"
+msgid "Failed to install comfyUI!"
+msgstr "comfyUI yüklenemedi!"
+# 
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/performance_games_page.py, line: 181
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/performance_games_page.py, line: 195
+# 
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/performance_games_page.py, line: 181
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/performance_games_page.py, line: 195
+# 
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/usability/gamemode_dialog.py, line: 204
+msgid "Performance"
 msgstr "Performans"
-msgid "Configurações do Brave"
-msgstr "Brave Ayarları"
-msgid "Remover propagandas"
-msgstr "Reklamları kaldırın"
-msgid "Suportar criptomoedas"
-msgstr "Kripto para birimlerini desteklemek"
-msgid "Escolher programas a serem carregados na memória durante boot"
-msgstr "Önyükleme sırasında belleğe yüklenecek programları seçin."
-msgid "Usabilidade"
-msgstr "Kullanılabilirlik"
-msgid "BigLinux Ajustes"
-msgstr "BigLinux Ayarları"
 # 
-# File: biglinux-settings/usr/share/biglinux/biglinux-settings/main.py, line: 107
-msgid "Usability"
-msgstr "Kullanılabilirlik"
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/performance_games_page.py, line: 16
+msgid "BigLinux performance tweaks."
+msgstr "BigLinux performans iyileştirmeleri."
 # 
-# File: biglinux-settings/usr/share/biglinux/biglinux-settings/system_usability_page.py, line: 104
-msgid "User and Visual system settings"
-msgstr "Kullanıcı ve Görsel sistem ayarları"
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/usability/gamemode_config_dialog.py, line: 91
+msgid "Disable Visual Effects"
+msgstr "Görsel Efektleri Devre Dışı Bırak"
 # 
-# #-#-#-#-#  biglinux-settings.pot (biglinux-settings)  #-#-#-#-#
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/performance_games_page.py, line: 35
+msgid "Disables KWin visual effects (blur, shadows, animations). Reduces GPU load and frees memory."
+msgstr ""
+"KWin görsel efektlerini (bulanıklık, gölgeler, animasyonlar) devre dışı bırakır. GPU yükünü azaltır "
+"ve bellek serbest bırakır."
 # 
-# File: biglinux-settings/usr/share/biglinux/biglinux-settings/system_usability_page.py, line: 111
-# File: biglinux-settings/usr/share/biglinux/biglinux-settings/preload_page.py, line: 112
-msgid "Reload all statuses"
-msgstr "Tüm durumları yenile"
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/performance_games_page.py, line: 63
+msgid "CPU Maximum Performance"
+msgstr "CPU Maksimum Performansı"
 # 
-# File: biglinux-settings/usr/share/biglinux/biglinux-settings/main.py, line: 114
-msgid "NumLock"
-msgstr "NumLock"
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/performance_games_page.py, line: 51
+msgid "Forces maximum processor performance mode. Ensures the processor uses maximum frequency."
+msgstr "Maksimum işlemci performansı modunu zorlar. İşlemcinin maksimum frekansı kullanmasını sağlar."
 # 
-# File: biglinux-settings/usr/share/biglinux/biglinux-settings/main.py, line: 115
-msgid "Initial NumLock state. Ignored if autologin is enabled."
-msgstr "Başlangıç NumLock durumu. Otomatik giriş etkinse göz ardı edilir."
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/performance_games_page.py, line: 79
+msgid "Disable Baloo Indexer"
+msgstr "Baloo İndeksleyicisini Devre Dışı Bırak"
 # 
-# File: biglinux-settings/usr/share/biglinux/biglinux-settings/main.py, line: 131
-msgid "Window Button On Left Side"
-msgstr "Pencere Düğmesi Sol Tarafta"
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/performance_games_page.py, line: 67
+msgid "Disables the Baloo file indexer. Avoids disk I/O overhead."
+msgstr "Baloo dosya dizinleyicisini devre dışı bırakır. Disk I/O yükünü önler."
 # 
-# File: biglinux-settings/usr/share/biglinux/biglinux-settings/main.py, line: 132
-msgid "Maximize, minimize, and close buttons on the left side of the window."
-msgstr "Pencerenin sol tarafında maksimum, minimum ve kapatma düğmeleri."
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/usability/gamemode_config_dialog.py, line: 136
+msgid "Unload S.M.A.R.T Monitor"
+msgstr "S.M.A.R.T Monitörü Boşalt"
 # 
-# File: biglinux-settings/usr/share/biglinux/biglinux-settings/system_usability_page.py, line: 133
-msgid "SSH until next reboot"
-msgstr "Bir sonraki yeniden başlatmaya kadar SSH"
-# 
-# File: biglinux-settings/usr/share/biglinux/biglinux-settings/main.py, line: 133
-msgid "Enable remote access via ssh until next boot."
-msgstr "Bir sonraki önyüze kadar ssh üzerinden uzaktan erişimi etkinleştir."
-# 
-# File: biglinux-settings/usr/share/biglinux/biglinux-settings/main.py, line: 108
-msgid "System"
-msgstr "Sistem"
-# 
-# File: biglinux-settings/usr/share/biglinux/biglinux-settings/main.py, line: 109
-msgid "General system settings"
-msgstr "Genel sistem ayarları"
-# 
-# File: biglinux-settings/usr/share/biglinux/biglinux-settings/system_usability_page.py, line: 147
-msgid "SSH always on"
-msgstr "SSH her zaman açık"
-# 
-# File: biglinux-settings/usr/share/biglinux/biglinux-settings/main.py, line: 149
-msgid "Turn on ssh remote access at boot."
-msgstr "Açılışta ssh uzaktan erişimi etkinleştir."
-# 
-# File: biglinux-settings/usr/share/biglinux/biglinux-settings/main.py, line: 162
-msgid "Fast Grub"
-msgstr "Hızlı Grub"
-# 
-# File: biglinux-settings/usr/share/biglinux/biglinux-settings/main.py, line: 163
-msgid "Decreases grub display time."
-msgstr "Grub görüntüleme süresini azaltır."
-# 
-# File: biglinux-settings/usr/share/biglinux/biglinux-settings/main.py, line: 170
-msgid "Auto-mount Partitions"
-msgstr "Otomatik Bağlama Bölümleri"
-# 
-# File: biglinux-settings/usr/share/biglinux/biglinux-settings/main.py, line: 171
-msgid "Auto mount partitions in internal disks on boot."
-msgstr "Önyüklemede dahili disklerdeki bölümleri otomatik olarak bağla."
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/performance_games_page.py, line: 83
+msgid "Disables S.M.A.R.T disk monitoring. Reduces disk I/O and CPU usage."
+msgstr "S.M.A.R.T disk izleme devre dışı bırakılır. Disk I/O ve CPU kullanımını azaltır."
 # 
 # File: biglinux-settings/usr/share/biglinux/biglinux-settings/system_usability_page.py, line: 169
 msgid "Meltdown Mitigations off"
 msgstr "Meltdown Azaltmaları kapalı"
 # 
-# File: biglinux-settings/usr/share/biglinux/biglinux-settings/system_usability_page.py, line: 170
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/system_usability_page.py, line: 113
 #, python-brace-format
 msgid ""
 "Using mitigations=off will make your machine faster and less secure! For more information see: <a "
-"href='{link}'>{link}</a>"
+"href='{l}'>{l}</a>"
 msgstr ""
 "Mitigasyonlar kapalı olduğunda, makineniz daha hızlı ancak daha az güvenli olacaktır! Daha fazla "
-"bilgi için: <a href='{link}'>{link}</a>"
+"bilgi için: <a href='{l}'>{l}</a>"
 # 
 # File: biglinux-settings/usr/share/biglinux/biglinux-settings/system_usability_page.py, line: 176
 msgid "noWatchdog"
@@ -213,29 +366,102 @@ msgstr ""
 "Donanım izleyicisini ve TSC saat kaynağı sistemlerini devre dışı bırakır, yüksek performansı korur "
 "ancak sistem çökmesine karşı otomatik korumaları kaldırır."
 # 
-# File: biglinux-settings/usr/share/biglinux/biglinux-settings/system_usability_page.py, line: 190
-msgid "Wifi"
-msgstr "Wifi"
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/main.py, line: 49
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/main.py, line: 120
+msgid "BigLinux Settings"
+msgstr "BigLinux Ayarları"
 # 
-# File: biglinux-settings/usr/share/biglinux/biglinux-settings/system_usability_page.py, line: 191
-msgid "Wifi On"
-msgstr "Wifi Açık"
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/main.py, line: 135
+msgid "Categories"
+msgstr "Kategoriler"
 # 
-# File: biglinux-settings/usr/share/biglinux/biglinux-settings/system_usability_page.py, line: 197
-msgid "Bluetooth"
-msgstr "Bluetooth"
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/main.py, line: 144
+msgid "Search..."
+msgstr "Ara..."
 # 
-# File: biglinux-settings/usr/share/biglinux/biglinux-settings/system_usability_page.py, line: 198
-msgid "Bluetooth On."
-msgstr "Bluetooth Açık."
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/devices/keyboard_led_dialog.py, line: 249
+msgid "Settings"
+msgstr "Ayarlar"
+# 
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/main.py, line: 108
+msgid "System"
+msgstr "Sistem"
+# 
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/devices/jamesdsp_dialog.py, line: 208
+# 
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/devices/jamesdsp_dialog.py, line: 208
+# 
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/devices/jamesdsp_dialog.py, line: 208
+# 
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/devices/jamesdsp_dialog.py, line: 208
+# 
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/devices/jamesdsp_dialog.py, line: 208
+# 
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/devices/jamesdsp_dialog.py, line: 208
+# 
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/main.py, line: 107
+msgid "Usability"
+msgstr "Kullanılabilirlik"
+# 
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/main.py, line: 158
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/main.py, line: 167
+msgid "PreLoad"
+msgstr "Ön Yükleme"
+# 
+# #-#-#-#-#  biglinux-settings.pot (biglinux-settings)  #-#-#-#-#
+# 
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/dispositivos_page.py, line: 25
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/main.py, line: 116
+msgid "Devices"
+msgstr "Cihazlar"
+# 
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/main.py, line: 161
+msgid "A.I."
+msgstr "Yapay Zeka"
 # 
 # File: biglinux-settings/usr/share/biglinux/biglinux-settings/system_usability_page.py, line: 204
 msgid "Docker"
 msgstr "Docker"
 # 
-# File: biglinux-settings/usr/share/biglinux/biglinux-settings/system_usability_page.py, line: 205
-msgid "Docker Enabled."
-msgstr "Docker Etkin."
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/preload_page.py, line: 103
+msgid "Preload"
+msgstr "Önceden Yükle"
+# 
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/preload_page.py, line: 105
+msgid "Preload applications into memory to open them faster."
+msgstr "Uygulamaları daha hızlı açmak için belleğe önceden yükleyin."
+# 
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/preload_page.py, line: 120
+msgid "Firefox"
+msgstr "Firefox"
+# 
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/preload_page.py, line: 126
+msgid "Brave"
+msgstr "Brave"
+# 
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/preload_page.py, line: 132
+msgid "Chrome"
+msgstr "Chrome"
+# 
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/preload_page.py, line: 138
+msgid "Chromium"
+msgstr "Kromium"
+# 
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/preload_page.py, line: 126
+msgid "Librewolf"
+msgstr "Librewolf"
+# 
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/preload_page.py, line: 144
+msgid "Palemoon"
+msgstr "Palemoon"
+# 
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/preload_page.py, line: 150
+msgid "Opera"
+msgstr "Opera"
+# 
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/preload_page.py, line: 156
+msgid "Libreoffice"
+msgstr "Libreoffice"
 # 
 # #-#-#-#-#  biglinux-settings.pot (biglinux-settings)  #-#-#-#-#
 # 
@@ -279,12 +505,9 @@ msgstr ""
 msgid "Unavailable: script returned invalid output."
 msgstr "Kullanılamıyor: betik geçersiz çıktı döndürdü."
 # 
-# #-#-#-#-#  biglinux-settings.pot (biglinux-settings)  #-#-#-#-#
-# 
-# File: biglinux-settings/usr/share/biglinux/biglinux-settings/system_usability_page.py, line: 226
-# File: biglinux-settings/usr/share/biglinux/biglinux-settings/preload_page.py, line: 185
-msgid "Invalid output from script {}: {}"
-msgstr "Geçersiz çıktı: {}: {}"
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/base_page.py, line: 261
+msgid "output from script {}: {}"
+msgstr "script çıktısı {}: {}"
 # 
 # #-#-#-#-#  biglinux-settings.pot (biglinux-settings)  #-#-#-#-#
 # 
@@ -332,8 +555,8 @@ msgstr "Anahtar {} senkronize: {}"
 # 
 # #-#-#-#-#  biglinux-settings.pot (biglinux-settings)  #-#-#-#-#
 # 
-# File: biglinux-settings/usr/share/biglinux/biglinux-settings/system_usability_page.py, line: 327
-# File: biglinux-settings/usr/share/biglinux/biglinux-settings/preload_page.py, line: 278
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/preload_page.py, line: 284
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/system_usability_page.py, line: 334
 msgid "Indicator {} synchronized: {}"
 msgstr "Göstergeler {} senkronize edildi: {}"
 # 
@@ -349,50 +572,498 @@ msgstr "HATA: {}'yi {}'ye değiştirme başarısız oldu."
 msgid "Failed to change setting: {}"
 msgstr "Ayar değiştirilemedi: {}"
 # 
-# File: biglinux-settings/usr/share/biglinux/biglinux-settings/main.py, line: 52
-msgid "General adjustments"
-msgstr "Genel ayarlar"
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/system_usability_page.py, line: 14
+msgid "User and Visual system settings."
+msgstr "Kullanıcı ve Görsel sistem ayarları."
 # 
-# File: biglinux-settings/usr/share/biglinux/biglinux-settings/main.py, line: 108
-msgid "System Tweaks"
-msgstr "Sistem Ayarları"
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/main.py, line: 114
+msgid "NumLock"
+msgstr "NumLock"
 # 
-# File: biglinux-settings/usr/share/biglinux/biglinux-settings/main.py, line: 111
-msgid "PreLoad"
-msgstr "Ön Yükleme"
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/main.py, line: 115
+msgid "Initial NumLock state. Ignored if autologin is enabled."
+msgstr "Başlangıç NumLock durumu. Otomatik giriş etkinse göz ardı edilir."
 # 
-# File: biglinux-settings/usr/share/biglinux/biglinux-settings/preload_page.py, line: 103
-msgid "Preload"
-msgstr "Önceden Yükle"
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/main.py, line: 131
+msgid "Window Button On Left Side"
+msgstr "Pencere Düğmesi Sol Tarafta"
 # 
-# File: biglinux-settings/usr/share/biglinux/biglinux-settings/preload_page.py, line: 105
-msgid "Preload applications into memory to open them faster."
-msgstr "Uygulamaları daha hızlı açmak için belleğe önceden yükleyin."
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/main.py, line: 132
+msgid "Maximize, minimize, and close buttons on the left side of the window."
+msgstr "Pencerenin sol tarafında maksimum, minimum ve kapatma düğmeleri."
 # 
-# File: biglinux-settings/usr/share/biglinux/biglinux-settings/preload_page.py, line: 120
-msgid "Firefox"
-msgstr "Firefox"
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/system_usability_page.py, line: 72
+msgid "KZones"
+msgstr "KZones"
 # 
-# File: biglinux-settings/usr/share/biglinux/biglinux-settings/preload_page.py, line: 126
-msgid "Brave"
-msgstr "Brave"
+# #-#-#-#-#  biglinux-settings.pot (biglinux-settings)  #-#-#-#-#
 # 
-# File: biglinux-settings/usr/share/biglinux/biglinux-settings/preload_page.py, line: 132
-msgid "Chrome"
-msgstr "Chrome"
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/ai_page.py, line: 32
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/system_usability_page.py, line: 50
+msgid "Script for the KWin window manager of the KDE Plasma desktop environment."
+msgstr "KDE Plasma masaüstü ortamının KWin pencere yöneticisi için betik."
 # 
-# File: biglinux-settings/usr/share/biglinux/biglinux-settings/preload_page.py, line: 138
-msgid "Chromium"
-msgstr "Kromium"
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/system_usability_page.py, line: 169
+msgid "Recent Files & Locations"
+msgstr "Son Dosyalar ve Konumlar"
 # 
-# File: biglinux-settings/usr/share/biglinux/biglinux-settings/preload_page.py, line: 144
-msgid "Palemoon"
-msgstr "Palemoon"
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/system_usability_page.py, line: 170
+msgid ""
+"Restores the 'Recent Files' and 'Recent Locations' functionality that appears empty in Dolphin and "
+"the Application Menu."
+msgstr ""
+"Dolphin ve Uygulama Menüsü'nde boş görünen 'Son Dosyalar' ve 'Son Konumlar' işlevselliğini geri "
+"yükler."
 # 
-# File: biglinux-settings/usr/share/biglinux/biglinux-settings/preload_page.py, line: 150
-msgid "Opera"
-msgstr "Opera"
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/usability_page.py, line: 57
+msgid "Bash Power"
+msgstr "Bash Gücü"
 # 
-# File: biglinux-settings/usr/share/biglinux/biglinux-settings/preload_page.py, line: 156
-msgid "Libreoffice"
-msgstr "Libreoffice"
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/usability_page.py, line: 58
+msgid "BigLinux terminal improvements and customizations."
+msgstr "BigLinux terminal iyileştirmeleri ve özelleştirmeleri."
+# 
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/docker_page.py, line: 15
+msgid "Container service - enable to use containers below."
+msgstr "Konteyner hizmeti - aşağıdaki konteynerleri kullanmayı etkinleştir."
+# 
+# #-#-#-#-#  biglinux-settings.pot (biglinux-settings)  #-#-#-#-#
+# 
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/main.py, line: 137
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/containers_page.py, line: 18
+msgid "Containers"
+msgstr "Konteynerler"
+# 
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/docker_page.py, line: 23
+msgid "Manage container technologies."
+msgstr "Konteyner teknolojilerini yönetin."
+# 
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/system_usability_page.py, line: 205
+msgid "Docker Enabled."
+msgstr "Docker Etkin."
+# 
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/containers_page.py, line: 35
+msgid "Nextcloud Plus"
+msgstr "Nextcloud Plus"
+# 
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/docker_page.py, line: 45
+msgid "Install Nextcloud Plus container."
+msgstr "Nextcloud Plus konteynerini kurun."
+# 
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/docker_page.py, line: 52
+msgid "Run Nextcloud Plus."
+msgstr "Nextcloud Plus'ı çalıştır."
+# 
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/docker_page.py, line: 48
+msgid ""
+"Nextcloud Plus is running.\n"
+"Address: http://localhost:8286\n"
+"and\n"
+"Address: http://{}:8286"
+msgstr ""
+"Nextcloud Plus çalışıyor.  \n"
+"Adres: http://localhost:8286  \n"
+"ve  \n"
+"Adres: http://{}:8286"
+# 
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/containers_page.py, line: 44
+msgid "AdGuard"
+msgstr "AdGuard"
+# 
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/docker_page.py, line: 64
+msgid "Install AdGuard Home container."
+msgstr "AdGuard Home konteynerini kurun."
+# 
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/docker_page.py, line: 71
+msgid "Run AdGuard."
+msgstr "AdGuard'ı çalıştır."
+# 
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/docker_page.py, line: 57
+msgid ""
+"AdGuard is running.\n"
+"Address: http://localhost:3030\n"
+"and\n"
+"Address: http://{}:3030"
+msgstr ""
+"AdGuard çalışıyor.\n"
+"Adres: http://localhost:3030\n"
+"ve\n"
+"Adres: http://{}:3030"
+# 
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/containers_page.py, line: 71
+msgid "Jellyfin"
+msgstr "Jellyfin"
+# 
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/docker_page.py, line: 79
+msgid "Install Jellyfin media server."
+msgstr "Jellyfin medya sunucusunu kurun."
+# 
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/docker_page.py, line: 90
+msgid "Run Jellyfin."
+msgstr "Jellyfin'i çalıştır."
+# 
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/docker_page.py, line: 75
+msgid ""
+"Jellyfin is running.\n"
+"Address: http://localhost:8096\n"
+"and\n"
+"Address: http://{}:8096"
+msgstr ""
+"Jellyfin çalışıyor.\n"
+"Adres: http://localhost:8096\n"
+"ve\n"
+"Adres: http://{}:8096"
+# 
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/containers_page.py, line: 80
+msgid "LAMP"
+msgstr "LAMP"
+# 
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/docker_page.py, line: 102
+msgid "Install LAMP stack (Linux, Apache, MySQL, PHP)."
+msgstr "LAMP yığını (Linux, Apache, MySQL, PHP) kurun."
+# 
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/docker_page.py, line: 109
+msgid "Run LAMP."
+msgstr "LAMP'i çalıştır."
+# 
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/docker_page.py, line: 84
+msgid ""
+"LAMP is running.\n"
+"Address: http://localhost:8080\n"
+"and\n"
+"Address: http://{}:8080"
+msgstr ""
+"LAMP çalışıyor.\n"
+"Adres: http://localhost:8080\n"
+"ve\n"
+"Adres: http://{}:8080"
+# 
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/containers_page.py, line: 89
+msgid "Portainer Client"
+msgstr "Portainer İstemcisi"
+# 
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/docker_page.py, line: 121
+msgid "Install Portainer Agent for cluster management."
+msgstr "Küme yönetimi için Portainer Agent'ı yükleyin."
+# 
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/docker_page.py, line: 128
+msgid "Run Portainer Client."
+msgstr "Portainer İstemcisini Çalıştır."
+# 
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/docker_page.py, line: 93
+msgid ""
+"Portainer Client is running.\n"
+"Address: http://localhost:9000\n"
+"and\n"
+"Address: http://{}:9000"
+msgstr ""
+"Portainer İstemcisi çalışıyor.\n"
+"Adres: http://localhost:9000\n"
+"ve\n"
+"Adres: http://{}:9000"
+# 
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/containers_page.py, line: 98
+msgid "SWS"
+msgstr "SWS"
+# 
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/docker_page.py, line: 140
+msgid "Install SWS static web server."
+msgstr "SWS statik web sunucusunu kurun."
+# 
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/docker_page.py, line: 147
+msgid "Run SWS."
+msgstr "SWS'yi çalıştır."
+# 
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/docker_page.py, line: 102
+msgid ""
+"SWS is running.\n"
+"Address: http://localhost:8182\n"
+"and\n"
+"Address: http://{}:8182"
+msgstr ""
+"SWS çalışıyor.\n"
+"Adres: http://localhost:8182\n"
+"ve\n"
+"Adres: http://{}:8182"
+# 
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/containers_page.py, line: 107
+msgid "V2RayA"
+msgstr "V2RayA"
+# 
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/docker_page.py, line: 159
+msgid "Install V2RayA network tool."
+msgstr "V2RayA ağ aracını yükleyin."
+# 
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/docker_page.py, line: 166
+msgid "Run V2RayA."
+msgstr "V2RayA'yı çalıştır."
+# 
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/docker_page.py, line: 111
+msgid ""
+"V2RayA is running.\n"
+"Address: http://localhost:2017\n"
+"and\n"
+"Address: http://{}:2017"
+msgstr ""
+"V2RayA çalışıyor.\n"
+"Adres: http://localhost:2017\n"
+"ve\n"
+"Adres: http://{}:2017"
+# 
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/docker_page.py, line: 178
+msgid "Install An open source, privacy-focused alternative to Google's Notebook LM!"
+msgstr "Google'ın Notebook LM'sine açık kaynaklı, gizliliğe odaklı bir alternatif kurun!"
+# 
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/docker_page.py, line: 185
+msgid "Run Open Notebook."
+msgstr "Açık Defteri Çalıştır."
+# 
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/docker_page.py, line: 190
+msgid ""
+"Open Notebook is running.\n"
+"Address: http://localhost:8502\n"
+"and\n"
+"Address: http://{}:8502"
+msgstr ""
+"Açık Not Defteri çalışıyor.\n"
+"Adres: http://localhost:8502\n"
+"ve\n"
+"Adres: http://{}:8502"
+# 
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/system_page.py, line: 26
+msgid "General system settings."
+msgstr "Genel sistem ayarları."
+# 
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/system_page.py, line: 23
+msgid "SSH"
+msgstr "SSH"
+# 
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/system_page.py, line: 24
+msgid "Enable remote access via ssh."
+msgstr "SSH üzerinden uzaktan erişimi etkinleştir."
+# 
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/system_page.py, line: 27
+msgid "SSH Address: {}"
+msgstr "SSH Adresi: {}"
+# 
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/system_usability_page.py, line: 147
+msgid "SSH always on"
+msgstr "SSH her zaman açık"
+# 
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/main.py, line: 149
+msgid "Turn on ssh remote access at boot."
+msgstr "Açılışta ssh uzaktan erişimi etkinleştir."
+# 
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/main.py, line: 162
+msgid "Fast Grub"
+msgstr "Hızlı Grub"
+# 
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/main.py, line: 163
+msgid "Decreases grub display time."
+msgstr "Grub görüntüleme süresini azaltır."
+# 
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/main.py, line: 170
+msgid "Auto-mount Partitions"
+msgstr "Otomatik Bağlama Bölümleri"
+# 
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/main.py, line: 171
+msgid "Auto mount partitions in internal disks on boot."
+msgstr "Önyüklemede dahili disklerdeki bölümleri otomatik olarak bağla."
+# 
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/devices_page.py, line: 15
+msgid "Manage physical devices."
+msgstr "Fiziksel cihazları yönetin."
+# 
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/system_usability_page.py, line: 190
+msgid "Wifi"
+msgstr "Wifi"
+# 
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/system_usability_page.py, line: 191
+msgid "Wifi On"
+msgstr "Wifi Açık"
+# 
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/system_usability_page.py, line: 197
+msgid "Bluetooth"
+msgstr "Bluetooth"
+# 
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/system_usability_page.py, line: 198
+msgid "Bluetooth On."
+msgstr "Bluetooth Açık."
+# 
+# #-#-#-#-#  biglinux-settings.pot (biglinux-settings)  #-#-#-#-#
+# 
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/dispositivos_page.py, line: 77
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/devices/jamesdsp_dialog.py, line: 155
+msgid "JamesDSP"
+msgstr "JamesDSP"
+# 
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/dispositivos_page.py, line: 84
+msgid "Advanced audio effects processor that improves sound quality."
+msgstr "Ses kalitesini artıran gelişmiş ses efekti işlemcisi."
+# 
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/devices_page.py, line: 71
+msgid "Reverse mouse scrolling"
+msgstr "Tersine fare kaydırma"
+# 
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/devices_page.py, line: 72
+msgid "Reverse mouse scrolling without restarting the session."
+msgstr "Oturumu yeniden başlatmadan fare kaydırmasını tersine çevir."
+# 
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/ai_page.py, line: 30
+msgid "AI Interfaces"
+msgstr "Yapay Zeka Arayüzleri"
+# 
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/ai_page.py, line: 31
+msgid "Graphical interface for artificial intelligence.."
+msgstr "Yapay zeka için grafiksel arayüz."
+# 
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/ai_page.py, line: 29
+msgid "Ollama Server"
+msgstr "Ollama Sunucusu"
+# 
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/ai_page.py, line: 23
+msgid "Choose which Ollama server is best for your hardware."
+msgstr "Donanımınız için en iyi Ollama sunucusunu seçin."
+# 
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/ai_page.py, line: 46
+msgid "ChatAI"
+msgstr "ChatAI"
+# 
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/ai_page.py, line: 47
+msgid "A variety of chats like Plasmoid for your KDE Plasma desktop."
+msgstr "KDE Plasma masaüstünüz için Plasmoid gibi çeşitli sohbetler."
+# 
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/ai_page.py, line: 128
+msgid "Ollama LAB"
+msgstr "Ollama LAB"
+# 
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/ai_page.py, line: 129
+msgid "Graphical interface for managing Ollama models and chat."
+msgstr "Ollama modellerini ve sohbeti yönetmek için grafik arayüz."
+# 
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/ai_page.py, line: 137
+msgid "User-friendly Desktop Client App for AI Models/LLMs."
+msgstr "Kullanıcı dostu Masaüstü İstemci Uygulaması AI Modelleri/LLM'ler için."
+# 
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/ai_page.py, line: 144
+msgid "LM Studio"
+msgstr "LM Stüdyosu"
+# 
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/ai_page.py, line: 145
+msgid "LM Studio - A desktop app for exploring and running large language models locally."
+msgstr ""
+"LM Studio - Büyük dil modellerini yerel olarak keşfetmek ve çalıştırmak için bir masaüstü "
+"uygulaması."
+# 
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/ai_page.py, line: 80
+msgid "An open source, privacy-focused alternative to Google's Notebook LM!"
+msgstr "Google'ın Notebook LM'sine açık kaynaklı, gizliliğe odaklı bir alternatif!"
+# 
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/ai_page.py, line: 88
+msgid ""
+"Official Hermes Agent desktop app from Nous Research — chat, voice, file browser, and settings UI "
+"for the local agent runtime."
+msgstr ""
+"Nous Research'ten resmi Hermes Agent masaüstü uygulaması — yerel ajan çalışma zamanı için sohbet, "
+"ses, dosya tarayıcı ve ayarlar arayüzü."
+# 
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/ai_page.py, line: 87
+msgid "ComfyUI (GPU ONLY)"
+msgstr "ComfyUI (YALNIZCA GPU)"
+# 
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/ai_page.py, line: 88
+msgid "The most powerful and modular visual AI engine and application."
+msgstr "En güçlü ve modüler görsel yapay zeka motoru ve uygulaması."
+# 
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/ai_page.py, line: 94
+msgid "ComfyUI Server"
+msgstr "ComfyUI Sunucusu"
+# 
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/ai_page.py, line: 97
+#, python-brace-format
+msgid "start ComfyUI Server. For more information see: <a href='{l}'>{l}</a>"
+msgstr "ComfyUI Sunucusunu başlat. Daha fazla bilgi için bakınız: <a href='{l}'>{l}</a>"
+# 
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/ai_page.py, line: 100
+msgid ""
+"ComfyUI server is running.\n"
+"Address: http://localhost:8188\n"
+"and\n"
+"Address: http://{}:8188"
+msgstr ""
+"ComfyUI sunucusu çalışıyor.  \n"
+"Adres: http://localhost:8188  \n"
+"ve  \n"
+"Adres: http://{}:8188"
+# 
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/ai_page.py, line: 56
+msgid "OllamaCPU"
+msgstr "OllamaCPU"
+# 
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/ai_page.py, line: 57
+msgid "Local AI server. For CPUs only."
+msgstr "Yerel AI sunucusu. Sadece CPU'lar için."
+# 
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/ai_page.py, line: 60
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/ai_page.py, line: 78
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/ai_page.py, line: 96
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/ai_page.py, line: 114
+msgid ""
+"Ollama server is running.\n"
+"Address: http://localhost:11434"
+msgstr ""
+"Ollama sunucusu çalışıyor.  \n"
+"Adres: http://localhost:11434"
+# 
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/ai_page.py, line: 64
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/ai_page.py, line: 82
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/ai_page.py, line: 100
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/ai_page.py, line: 118
+msgid "Share Ollama"
+msgstr "Ollama'yı Paylaş"
+# 
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/ai_page.py, line: 65
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/ai_page.py, line: 83
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/ai_page.py, line: 101
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/ai_page.py, line: 119
+msgid "Share ollama on the local network."
+msgstr "Ollama'yı yerel ağda paylaş."
+# 
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/ai_page.py, line: 69
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/ai_page.py, line: 87
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/ai_page.py, line: 105
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/ai_page.py, line: 123
+msgid ""
+"Ollama server is running.\n"
+"Address: http://{}:11434"
+msgstr ""
+"Ollama sunucusu çalışıyor.  \n"
+"Adres: http://{}:11434"
+# 
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/ai_page.py, line: 74
+msgid "Ollama Vulkan"
+msgstr "Ollama Vulkan"
+# 
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/ai_page.py, line: 75
+msgid "Local AI server. For CPUs, AMD/Nvidia and integrated GPUs."
+msgstr "Yerel AI sunucusu. CPU'lar için, AMD/Nvidia ve entegre GPU'lar."
+# 
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/ai_page.py, line: 110
+msgid "Ollama Nvidia CUDA"
+msgstr "Ollama Nvidia CUDA"
+# 
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/ai_page.py, line: 111
+msgid "Local AI server. For newer Nvidia GPUs, starting from the 2000 series."
+msgstr "Yerel AI sunucusu. 2000 serisinden itibaren daha yeni Nvidia GPU'lar için."
+# 
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/ai_page.py, line: 92
+msgid "Ollama AMD ROCm"
+msgstr "Ollama AMD ROCm"
+# 
+# File: biglinux-settings/usr/share/biglinux/biglinux-settings/ai_page.py, line: 111
+msgid ""
+"Local AI server. For newer AMD GPUs, starting from the 6000 series.\n"
+"Consider using Vulkan, in many tests, Vulkan performed better than ROCm."
+msgstr ""
+"Yerel AI sunucusu. 6000 serisinden itibaren daha yeni AMD GPU'ları için. Vulkan kullanmayı düşünün, "
+"birçok testte Vulkan, ROCm'den daha iyi performans gösterdi."

@@ -1,39 +1,22 @@
 #!/bin/bash
 
 # check current status
-check_state() {
+# action=$1
+if [ "$1" == "check" ]; then
   if [[ "$(systemctl is-enabled sshd)" == "enabled" ]];then
     echo "true"
   else
     echo "false"
   fi
-}
 
 # change the state
-toggle_state() {
-  new_state="$1"
-  if [[ "$new_state" == "true" ]];then
+# action=$1
+# state=$2
+elif [ "$1" == "toggle" ]; then
+  if [ "$2" == "true" ]; then
       pkexec systemctl enable sshd
-      exitCode=$?
   else
       pkexec systemctl disable sshd
-      exitCode=$?
   fi
-  exit $exitCode
-}
-
-# Executes the function based on the parameter
-case "$1" in
-    "check")
-        check_state
-        ;;
-    "toggle")
-        toggle_state "$2"
-        ;;
-    *)
-        echo "Use: $0 {check|toggle} [true|false]"
-        echo "  check          - Check current status"
-        echo "  toggle <state> - Changes to the specified state"
-        exit 1
-        ;;
-esac
+  exit $?
+fi
